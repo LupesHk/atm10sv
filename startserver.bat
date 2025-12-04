@@ -16,7 +16,7 @@ SET "PLAYIT_SECRET="
 
 SET "ZIP_NAME=world.zip"
 
-SET "NEOFORGE_VERSION=21.1.211"
+SET "NEOFORGE_VERSION=21.1.215"
 SET "JAVA_CMD=java @user_jvm_args.txt @libraries\net\neoforged\neoforge\%NEOFORGE_VERSION%\win_args.txt nogui"
 
 REM ===========================
