@@ -1,0 +1,26 @@
+# IGNORAR PASTAS PESADAS
+mods/
+libraries/
+git/
+
+
+# IGNORAR ARQUIVOS GERADOS
+logs/
+crash-reports/
+backups/
+simplebackups/
+simplebackups/world
+simplebackups\world
+*.log
+
+# IGNORAR PLAYIT
+playit.log
+playit-update/
+
+# IGNORAR JAVA LIXO
+hs_err_pid*.log
+replay_pid*.log
+
+# IGNORAR ZIP DE BACKUP
+world.zip
+password.env
