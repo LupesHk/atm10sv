@@ -10,7 +10,7 @@ if exist "password.env" (
     )
 )
 
-SET "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/worlds-backups.git"
+SET "REPO_TOKEN=https://%GIT_TOKEN%@github.com/LupesHk/atm10sv"
 
 echo Commit rapido...
 "%GIT%" remote set-url origin "%REPO_TOKEN%"
