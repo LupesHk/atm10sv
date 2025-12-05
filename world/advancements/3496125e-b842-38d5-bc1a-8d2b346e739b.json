@@ -302,6 +302,7 @@
       "minecraft:blaze": "2025-11-25 23:36:29 -0300",
       "minecraft:skeleton": "2025-11-30 13:12:18 -0300",
       "minecraft:piglin": "2025-11-29 00:52:44 -0300",
+      "minecraft:zombified_piglin": "2025-12-05 17:31:01 -0300",
       "minecraft:enderman": "2025-11-22 01:12:39 -0300",
       "minecraft:spider": "2025-11-22 01:10:06 -0300",
       "minecraft:wither_skeleton": "2025-11-25 23:02:19 -0300",
@@ -843,6 +844,36 @@
       "tools": "2025-12-04 14:25:21 -0300"
     },
     "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-12-05 18:21:08 -0300"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-12-05 14:32:58 -0300"
+    },
+    "done": true
+  },
+  "exmachinis:gold_upgrade": {
+    "criteria": {
+      "has_gold_upgrade": "2025-12-05 17:40:26 -0300"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2025-12-05 15:37:17 -0300"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2025-12-05 16:38:24 -0300"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
