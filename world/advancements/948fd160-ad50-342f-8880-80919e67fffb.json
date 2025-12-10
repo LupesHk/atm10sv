@@ -133,6 +133,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-11-21 23:45:32 -0300",
+      "minecraft:river": "2025-12-10 00:41:00 -0300",
       "minecraft:savanna": "2025-12-03 22:13:21 -0300",
       "minecraft:plains": "2025-11-21 23:43:15 -0300"
     },
@@ -327,16 +328,17 @@
     "criteria": {
       "minecraft:blaze": "2025-11-25 23:34:57 -0300",
       "minecraft:skeleton": "2025-11-25 16:24:24 -0300",
-      "minecraft:piglin": "2025-12-03 22:03:02 -0300",
       "minecraft:phantom": "2025-11-24 01:46:10 -0300",
+      "minecraft:witch": "2025-11-25 17:06:01 -0300",
+      "minecraft:wither_skeleton": "2025-11-25 23:03:13 -0300",
+      "minecraft:piglin": "2025-12-03 22:03:02 -0300",
       "minecraft:enderman": "2025-11-25 19:10:04 -0300",
       "minecraft:magma_cube": "2025-11-25 23:34:09 -0300",
-      "minecraft:witch": "2025-11-25 17:06:01 -0300",
       "minecraft:spider": "2025-11-25 16:27:04 -0300",
-      "minecraft:wither_skeleton": "2025-11-25 23:03:13 -0300",
       "minecraft:zombie": "2025-11-25 16:24:28 -0300",
       "minecraft:creeper": "2025-11-25 16:18:50 -0300",
-      "minecraft:wither": "2025-11-25 23:50:05 -0300"
+      "minecraft:wither": "2025-11-25 23:50:05 -0300",
+      "minecraft:zombie_villager": "2025-12-10 01:10:46 -0300"
     },
     "done": false
   },
@@ -638,6 +640,42 @@
   "pneumaticcraft:programming_puzzle": {
     "criteria": {
       "0": "2025-12-03 22:03:50 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-12-10 00:48:52 -0300"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2025-12-10 00:55:35 -0300"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-12-10 00:55:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-12-10 01:41:32 -0300"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-12-10 00:56:24 -0300"
+    },
+    "done": true
+  },
+  "exmachinis:flux_hammer": {
+    "criteria": {
+      "has_flux_hammer": "2025-12-10 00:47:41 -0300"
     },
     "done": true
   },

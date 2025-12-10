@@ -133,6 +133,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-11-21 23:50:36 -0300",
+      "minecraft:river": "2025-12-10 02:44:29 -0300",
       "minecraft:savanna": "2025-11-27 02:26:26 -0300",
       "minecraft:plains": "2025-11-21 23:49:35 -0300"
     },
@@ -308,6 +309,7 @@
       "minecraft:pillager": "2025-11-28 15:39:20 -0300",
       "minecraft:skeleton": "2025-11-22 13:33:06 -0300",
       "minecraft:phantom": "2025-11-24 01:47:15 -0300",
+      "minecraft:spider": "2025-12-10 02:12:56 -0300",
       "minecraft:wither_skeleton": "2025-11-30 12:31:36 -0300",
       "minecraft:zombie": "2025-12-03 21:46:01 -0300",
       "minecraft:creeper": "2025-12-03 21:45:55 -0300"
@@ -549,6 +551,30 @@
   "trashcans:trash_can": {
     "criteria": {
       "has_item_trash_can": "2025-12-03 21:54:06 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2025-12-10 01:50:51 -0300"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-12-10 03:22:28 -0300"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2025-12-10 03:35:52 -0300"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-12-10 03:01:51 -0300"
     },
     "done": true
   },

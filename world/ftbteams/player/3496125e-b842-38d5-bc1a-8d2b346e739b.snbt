@@ -2,9 +2,7 @@
 	id: "3496125e-b842-38d5-bc1a-8d2b346e739b"
 	type: "player"
 	player_name: "Lupes"
-	ranks: {
-		3496125e-b842-38d5-bc1a-8d2b346e739b: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Lupes"
 		"ftbteams:description": ""

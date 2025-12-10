@@ -1,0 +1,37 @@
+{
+	id: "5fb369b2-df1d-442f-9377-92736a6ffe43"
+	type: "party"
+	owner: "3496125e-b842-38d5-bc1a-8d2b346e739b"
+	ranks: {
+		3496125e-b842-38d5-bc1a-8d2b346e739b: "owner"
+		03ba567e-b2bc-3d0a-8152-633f232f386d: "member"
+		948fd160-ad50-342f-8880-80919e67fffb: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Lupes's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59BF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1765335408854L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Lupes\"],\"color\":\"yellow\"}" }
+		{ from: "3496125e-b842-38d5-bc1a-8d2b346e739b", date: 1765335408869L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Jovem_DeusXD1\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1765335410984L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Jovem_DeusXD1\"],\"color\":\"green\"}" }
+		{ from: "3496125e-b842-38d5-bc1a-8d2b346e739b", date: 1765337632117L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"FR4N\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1765337635696L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"FR4N\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}
