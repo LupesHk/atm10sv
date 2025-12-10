@@ -560,6 +560,12 @@
     },
     "done": true
   },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-12-10 03:01:51 -0300"
+    },
+    "done": true
+  },
   "mekanism:advanced_control_circuit": {
     "criteria": {
       "advanced_control_circuit": "2025-12-10 03:22:28 -0300"
@@ -572,9 +578,21 @@
     },
     "done": true
   },
-  "mekanism:enricher": {
+  "mekanism:reinforced_alloy": {
     "criteria": {
-      "enrichment_chamber": "2025-12-10 03:01:51 -0300"
+      "alloy_reinforced": "2025-12-10 14:24:48 -0300"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-12-10 14:39:07 -0300"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-12-10 14:20:15 -0300"
     },
     "done": true
   },
