@@ -930,21 +930,33 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-12-10 21:12:49 -0300"
-    },
-    "done": true
-  },
   "trashcans:trash_can": {
     "criteria": {
       "has_liquid_trash_can": "2025-12-10 18:23:14 -0300"
     },
     "done": true
   },
+  "nullscape:root": {
+    "criteria": {
+      "nullscape:shadowlands": "2025-12-10 18:42:52 -0300"
+    },
+    "done": true
+  },
   "ae2:main/ioport": {
     "criteria": {
       "certus": "2025-12-10 20:08:46 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/p2p": {
+    "criteria": {
+      "certus": "2025-12-10 20:12:59 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-12-10 21:12:49 -0300"
     },
     "done": true
   },
@@ -960,33 +972,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "apothic_spawners:players": {
     "criteria": {
-      "avoid_vibration": "2025-12-10 22:50:16 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:source_jar": {
-    "criteria": {
-      "has_source_jar": "2025-12-11 01:03:25 -0300"
-    },
-    "done": true
-  },
-  "nullscape:root": {
-    "criteria": {
-      "nullscape:shadowlands": "2025-12-10 18:42:52 -0300"
-    },
-    "done": true
-  },
-  "ae2:main/p2p": {
-    "criteria": {
-      "certus": "2025-12-10 20:12:59 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:apprentice_spell_book": {
-    "criteria": {
-      "has_apprentice_spell_book": "2025-12-11 00:07:07 -0300"
+      "modifier": "2025-12-10 22:08:39 -0300"
     },
     "done": true
   },
@@ -996,15 +984,33 @@
     },
     "done": true
   },
-  "apothic_spawners:players": {
+  "minecraft:adventure/avoid_vibration": {
     "criteria": {
-      "modifier": "2025-12-10 22:08:39 -0300"
+      "avoid_vibration": "2025-12-10 22:50:16 -0300"
     },
     "done": true
   },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-12-10 23:58:53 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-12-11 00:07:07 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-12-11 01:03:25 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:poof_mob": {
+    "criteria": {
+      "poof_mob": "2025-12-11 13:30:49 -0300"
     },
     "done": true
   },
