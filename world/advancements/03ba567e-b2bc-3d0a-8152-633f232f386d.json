@@ -578,6 +578,12 @@
     },
     "done": true
   },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-12-10 14:20:15 -0300"
+    },
+    "done": true
+  },
   "mekanism:reinforced_alloy": {
     "criteria": {
       "alloy_reinforced": "2025-12-10 14:24:48 -0300"
@@ -590,9 +596,39 @@
     },
     "done": true
   },
-  "mekanism:infusing_efficiency": {
+  "ars_nouveau:imbuement_chamber": {
     "criteria": {
-      "enriched_material": "2025-12-10 14:20:15 -0300"
+      "has_imbuement_chamber": "2025-12-11 00:01:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-12-10 22:38:53 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-12-11 00:36:25 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-12-10 23:42:53 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-12-10 23:46:58 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:manual/resonanz": {
+    "criteria": {
+      "has_item": "2025-12-10 22:35:36 -0300"
     },
     "done": true
   },
