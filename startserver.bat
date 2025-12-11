@@ -60,9 +60,9 @@ REM ===========================
 echo.
 echo ================================
 echo Deseja puxar o commit mais recente?
-echo Se nao responder em 5 segundos, sera considerado SIM.
+echo Se nao responder em 3 segundos, sera considerado SIM.
 echo ================================
-choice /T 5 /D S /M "Puxar commit mais recente? (S/N): "
+choice /T 3 /D S /M "Puxar commit mais recente? (S/N): "
 
 if %errorlevel%==2 (
     set "PULL_RECENTE=N"
