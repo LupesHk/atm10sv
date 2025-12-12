@@ -1014,5 +1014,29 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2025-12-12 00:01:00 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:spawncount": {
+    "criteria": {
+      "modifier": "2025-12-12 00:12:35 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-12-12 00:11:19 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:redstone": {
+    "criteria": {
+      "modifier": "2025-12-11 22:33:24 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
