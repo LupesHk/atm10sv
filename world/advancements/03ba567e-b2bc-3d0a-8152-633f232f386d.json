@@ -315,7 +315,8 @@
       "minecraft:zombie": "2025-12-03 21:46:01 -0300",
       "minecraft:creeper": "2025-12-03 21:45:55 -0300",
       "minecraft:wither": "2025-12-11 15:07:40 -0300",
-      "minecraft:slime": "2025-12-11 15:13:30 -0300"
+      "minecraft:slime": "2025-12-11 15:13:30 -0300",
+      "minecraft:ender_dragon": "2025-12-12 12:59:29 -0300"
     },
     "done": false
   },
@@ -635,12 +636,6 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_brazier": {
-    "criteria": {
-      "has_ritual_brazier": "2025-12-11 14:36:16 -0300"
-    },
-    "done": true
-  },
   "mekanism:fluid_tank": {
     "criteria": {
       "basic_fluid_tank": "2025-12-11 13:01:39 -0300"
@@ -652,18 +647,6 @@
       "has_enchanting_apparatus": "2025-12-11 13:08:58 -0300"
     },
     "done": true
-  },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2025-12-11 14:08:01 -0300"
-    },
-    "done": true
-  },
-  "apotheosis:progression/summit": {
-    "criteria": {
-      "kill_wither": "2025-12-11 15:07:40 -0300"
-    },
-    "done": false
   },
   "ars_nouveau:poof_mob": {
     "criteria": {
@@ -677,15 +660,21 @@
     },
     "done": true
   },
-  "ars_nouveau:archmage_spell_book": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_archmage_spell_book": "2025-12-11 15:14:17 -0300"
+      "cod": "2025-12-11 14:08:01 -0300"
     },
     "done": true
   },
-  "ars_nouveau:wilden_tribute": {
+  "ars_nouveau:drygmy_charm": {
     "criteria": {
-      "has_wilden_tribute": "2025-12-11 15:10:45 -0300"
+      "has_drygmy_charm": "2025-12-11 14:22:04 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-12-11 14:36:16 -0300"
     },
     "done": true
   },
@@ -695,9 +684,83 @@
     },
     "done": true
   },
-  "ars_nouveau:drygmy_charm": {
+  "apotheosis:progression/summit": {
     "criteria": {
-      "has_drygmy_charm": "2025-12-11 14:22:04 -0300"
+      "kill_wither": "2025-12-11 15:07:40 -0300",
+      "rare_hand": "2025-12-12 12:49:06 -0300"
+    },
+    "done": false
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-12-11 15:10:45 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-12-11 15:14:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-12-12 12:59:29 -0300"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-12-12 12:52:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-12-12 12:56:57 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_hand": "2025-12-12 12:49:06 -0300"
+    },
+    "done": false
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-12-12 13:14:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-12-12 12:52:47 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_hand": "2025-12-12 12:49:06 -0300",
+      "kill_ender_dragon": "2025-12-12 12:59:29 -0300"
+    },
+    "done": false
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2025-12-12 12:49:05 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_hand": "2025-12-12 12:49:06 -0300"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-12-12 12:52:47 -0300"
     },
     "done": true
   },

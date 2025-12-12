@@ -327,18 +327,24 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-11-25 23:34:57 -0300",
+      "minecraft:pillager": "2025-12-12 12:18:45 -0300",
       "minecraft:skeleton": "2025-11-25 16:24:24 -0300",
       "minecraft:phantom": "2025-11-24 01:46:10 -0300",
       "minecraft:witch": "2025-11-25 17:06:01 -0300",
       "minecraft:wither_skeleton": "2025-11-25 23:03:13 -0300",
+      "minecraft:ender_dragon": "2025-12-12 13:07:18 -0300",
+      "minecraft:shulker": "2025-12-12 13:18:20 -0300",
       "minecraft:piglin": "2025-12-03 22:03:02 -0300",
+      "minecraft:vindicator": "2025-12-12 12:18:37 -0300",
       "minecraft:enderman": "2025-11-25 19:10:04 -0300",
       "minecraft:magma_cube": "2025-11-25 23:34:09 -0300",
       "minecraft:spider": "2025-11-25 16:27:04 -0300",
+      "minecraft:vex": "2025-12-12 12:21:06 -0300",
       "minecraft:zombie": "2025-11-25 16:24:28 -0300",
       "minecraft:creeper": "2025-11-25 16:18:50 -0300",
       "minecraft:wither": "2025-11-25 23:50:05 -0300",
-      "minecraft:zombie_villager": "2025-12-10 01:10:46 -0300"
+      "minecraft:zombie_villager": "2025-12-10 01:10:46 -0300",
+      "minecraft:slime": "2025-12-12 13:36:07 -0300"
     },
     "done": false
   },
@@ -440,9 +446,10 @@
       "uncommon_chest": "2025-11-26 00:14:48 -0300",
       "kill_apothic_invader": "2025-12-03 22:03:02 -0300",
       "uncommon_hand": "2025-11-25 14:08:31 -0300",
+      "uncommon_helm": "2025-12-12 12:23:51 -0300",
       "uncommon_feet": "2025-11-26 00:14:47 -0300"
     },
-    "done": false
+    "done": true
   },
   "apotheosis:progression/frontier": {
     "criteria": {
@@ -561,9 +568,14 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
-      "kill_wither": "2025-11-25 23:50:05 -0300"
+      "kill_wither": "2025-11-25 23:50:05 -0300",
+      "rare_chest": "2025-12-12 12:29:18 -0300",
+      "rare_legs": "2025-12-12 12:27:09 -0300",
+      "rare_hand": "2025-12-12 12:27:08 -0300",
+      "rare_helm": "2025-12-12 12:28:18 -0300",
+      "rare_feet": "2025-12-12 12:30:18 -0300"
     },
-    "done": false
+    "done": true
   },
   "ae2:main/presses": {
     "criteria": {
@@ -676,6 +688,167 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-12-10 01:41:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-12-12 12:18:37 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-12-12 12:21:48 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_legs": "2025-12-12 12:50:51 -0300",
+      "epic_feet": "2025-12-12 12:48:20 -0300",
+      "epic_hand": "2025-12-12 12:42:12 -0300",
+      "epic_helm": "2025-12-12 12:47:55 -0300",
+      "kill_ender_dragon": "2025-12-12 13:07:18 -0300",
+      "epic_chest": "2025-12-12 12:48:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-12-12 12:52:20 -0300"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-12-12 12:52:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-12-12 12:52:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-12-12 12:52:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-12-12 12:56:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-12-12 12:56:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-12-12 13:01:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-12-12 13:07:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-12-12 13:08:35 -0300"
+    },
+    "done": true
+  },
+  "nullscape:root": {
+    "criteria": {
+      "nullscape:crystal_peaks": "2025-12-12 13:10:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-12-12 13:18:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-12-12 13:18:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-12-12 13:20:48 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-12-12 14:26:38 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:manual/resonanz": {
+    "criteria": {
+      "has_item": "2025-12-12 16:11:04 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_tribute": {
+    "criteria": {
+      "has_wilden_tribute": "2025-12-12 16:11:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/froglights": {
+    "criteria": {
+      "froglights": "2025-12-12 16:11:24 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:template_angel": {
+    "criteria": {
+      "template_angel": "2025-12-12 16:11:30 -0300"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-12-12 16:11:32 -0300"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-12-12 16:11:32 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-12-12 16:11:37 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-12-12 16:11:40 -0300"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2025-12-12 16:12:04 -0300"
     },
     "done": true
   },
