@@ -643,6 +643,12 @@
     },
     "done": true
   },
+  "exmachinis:flux_hammer": {
+    "criteria": {
+      "has_flux_hammer": "2025-12-10 00:47:41 -0300"
+    },
+    "done": true
+  },
   "ae2:main/facade": {
     "criteria": {
       "facade": "2025-12-10 00:48:52 -0300"
@@ -661,21 +667,15 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-12-10 01:41:32 -0300"
-    },
-    "done": true
-  },
   "mekanismtools:better_than_netherite": {
     "criteria": {
       "armor": "2025-12-10 00:56:24 -0300"
     },
     "done": true
   },
-  "exmachinis:flux_hammer": {
+  "minecraft:story/cure_zombie_villager": {
     "criteria": {
-      "has_flux_hammer": "2025-12-10 00:47:41 -0300"
+      "cured_zombie": "2025-12-10 01:41:32 -0300"
     },
     "done": true
   },
