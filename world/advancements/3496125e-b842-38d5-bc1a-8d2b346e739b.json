@@ -1049,9 +1049,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-12-12 12:18:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-12-12 12:21:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-12-12 12:21:48 -0300"
     },
     "done": true
   },
@@ -1061,27 +1073,14 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_egg": {
+  "apotheosis:progression/pinnacle": {
     "criteria": {
-      "dragon_egg": "2025-12-12 13:03:16 -0300"
-    },
-    "done": true
-  },
-  "apothic_spawners:root": {
-    "criteria": {
-      "spawner": "2025-12-12 14:26:15 -0300"
-    },
-    "done": true
-  },
-  "mekanismtools:alternate_armor": {
-    "criteria": {
-      "armor": "2025-12-12 13:52:30 -0300"
-    },
-    "done": true
-  },
-  "integrateddynamics:meneglin_basics/meneglin_discovery": {
-    "criteria": {
-      "criteria_0": "2025-12-12 13:44:28 -0300"
+      "epic_legs": "2025-12-12 16:46:05 -0300",
+      "epic_feet": "2025-12-12 16:46:05 -0300",
+      "epic_hand": "2025-12-12 13:35:27 -0300",
+      "epic_helm": "2025-12-12 16:46:05 -0300",
+      "kill_ender_dragon": "2025-12-12 12:55:33 -0300",
+      "epic_chest": "2025-12-12 16:46:05 -0300"
     },
     "done": true
   },
@@ -1097,26 +1096,81 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "minecraft:end/dragon_egg": {
     "criteria": {
-      "voluntary_exile": "2025-12-12 12:18:08 -0300"
+      "dragon_egg": "2025-12-12 13:03:16 -0300"
     },
     "done": true
   },
-  "apotheosis:progression/pinnacle": {
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
     "criteria": {
-      "epic_legs": "2025-12-12 16:46:05 -0300",
-      "epic_feet": "2025-12-12 16:46:05 -0300",
-      "epic_hand": "2025-12-12 13:35:27 -0300",
-      "epic_helm": "2025-12-12 16:46:05 -0300",
-      "kill_ender_dragon": "2025-12-12 12:55:33 -0300",
-      "epic_chest": "2025-12-12 16:46:05 -0300"
+      "criteria_0": "2025-12-12 13:44:28 -0300"
     },
     "done": true
   },
-  "minecraft:adventure/hero_of_the_village": {
+  "mekanismtools:alternate_armor": {
     "criteria": {
-      "hero_of_the_village": "2025-12-12 12:21:48 -0300"
+      "armor": "2025-12-12 13:52:30 -0300"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-12-12 14:26:15 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-12-14 16:11:45 -0300"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2025-12-14 11:21:45 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-12-14 16:11:42 -0300"
+    },
+    "done": true
+  },
+  "modern_industrialization:forge_hammer": {
+    "criteria": {
+      "checkInv": "2025-12-14 12:12:33 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:mark_of_mastery": {
+    "criteria": {
+      "has_mark_of_mastery": "2025-12-14 16:16:59 -0300"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-12-14 11:21:11 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-12-14 16:22:29 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-12-14 16:22:14 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-12-14 15:41:39 -0300"
     },
     "done": true
   },
