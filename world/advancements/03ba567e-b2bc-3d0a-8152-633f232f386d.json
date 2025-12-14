@@ -703,21 +703,9 @@
     },
     "done": true
   },
-  "minecraft:end/kill_dragon": {
+  "apotheosis:progression/haven": {
     "criteria": {
-      "killed_dragon": "2025-12-12 12:59:29 -0300"
-    },
-    "done": true
-  },
-  "silentgear:the_end": {
-    "criteria": {
-      "entered_the_end": "2025-12-12 12:52:47 -0300"
-    },
-    "done": true
-  },
-  "minecraft:end/respawn_dragon": {
-    "criteria": {
-      "summoned_dragon": "2025-12-12 12:56:57 -0300"
+      "affixed": "2025-12-12 12:49:05 -0300"
     },
     "done": true
   },
@@ -727,9 +715,22 @@
     },
     "done": false
   },
-  "minecraft:end/dragon_breath": {
+  "apotheosis:progression/pinnacle": {
     "criteria": {
-      "dragon_breath": "2025-12-12 13:14:12 -0300"
+      "epic_hand": "2025-12-12 12:49:06 -0300",
+      "kill_ender_dragon": "2025-12-12 12:59:29 -0300"
+    },
+    "done": false
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_hand": "2025-12-12 12:49:06 -0300"
+    },
+    "done": false
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-12-12 12:52:47 -0300"
     },
     "done": true
   },
@@ -739,28 +740,39 @@
     },
     "done": true
   },
-  "apotheosis:progression/pinnacle": {
-    "criteria": {
-      "epic_hand": "2025-12-12 12:49:06 -0300",
-      "kill_ender_dragon": "2025-12-12 12:59:29 -0300"
-    },
-    "done": false
-  },
-  "apotheosis:progression/haven": {
-    "criteria": {
-      "affixed": "2025-12-12 12:49:05 -0300"
-    },
-    "done": true
-  },
-  "apotheosis:progression/frontier": {
-    "criteria": {
-      "common_hand": "2025-12-12 12:49:06 -0300"
-    },
-    "done": false
-  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-12-12 12:52:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-12-12 12:56:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-12-12 12:59:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-12-12 13:14:12 -0300"
+    },
+    "done": true
+  },
+  "modern_industrialization:forge_hammer": {
+    "criteria": {
+      "checkInv": "2025-12-14 02:24:38 -0300"
+    },
+    "done": true
+  },
+  "modern_industrialization:fire_clay_bricks": {
+    "criteria": {
+      "checkInv": "2025-12-14 02:37:43 -0300"
     },
     "done": true
   },
