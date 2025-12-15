@@ -1,8 +1,8 @@
 minecraft:overworld
-allthemodium:the_beyond
 minecraft:the_end
-allthemodium:mining
 allthemodium:the_other
+allthemodium:the_beyond
 compactmachines:compact_world
+allthemodium:mining
 minecraft:the_nether
 ae2:spatial_storage

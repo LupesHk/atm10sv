@@ -1,19 +1,19 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1765718543832L
+	last_login_time: 1765818438140L
 	chunks: {
 		"minecraft:overworld": [
+			{ x: 245, z: -1, time: 1765472204561L, force_loaded: 1765472206054L }
 			{ x: 256, z: -3, time: 1765338861002L, force_loaded: 1765338861996L }
-			{ x: 257, z: -3, time: 1765338861002L, force_loaded: 1765338861996L }
-			{ x: 256, z: -4, time: 1765338861002L, force_loaded: 1765338861996L }
 			{ x: 246, z: -2, time: 1765551967427L }
 			{ x: 245, z: -2, time: 1765551961882L }
-			{ x: 245, z: -1, time: 1765472204561L, force_loaded: 1765472206054L }
+			{ x: 256, z: -4, time: 1765338861002L, force_loaded: 1765338861996L }
+			{ x: 257, z: -3, time: 1765338861002L, force_loaded: 1765338861996L }
 			{ x: 257, z: -4, time: 1765338861001L, force_loaded: 1765338861994L }
+			{ x: 255, z: 1, time: 1765414842928L, force_loaded: 1765414844084L }
 			{ x: 256, z: 1, time: 1765414842928L, force_loaded: 1765414844083L }
 			{ x: 246, z: -1, time: 1765472204912L, force_loaded: 1765472206357L }
-			{ x: 255, z: 1, time: 1765414842928L, force_loaded: 1765414844084L }
 		]
 		"compactmachines:compact_world": [{ x: 0, z: -64, time: 1765414700395L, force_loaded: 1765414703527L }]
 	}
@@ -27,8 +27,8 @@
 			original_claims: {
 				"minecraft:overworld": [
 					{ x: 256, z: -3 }
-					{ x: 257, z: -3 }
 					{ x: 256, z: -4 }
+					{ x: 257, z: -3 }
 					{ x: 257, z: -4 }
 				]
 			}

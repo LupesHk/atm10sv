@@ -1120,9 +1120,9 @@
     },
     "done": true
   },
-  "ars_nouveau:enchanting_apparatus": {
+  "mekanismtools:better_than_netherite": {
     "criteria": {
-      "has_enchanting_apparatus": "2025-12-14 16:11:45 -0300"
+      "armor": "2025-12-14 11:21:11 -0300"
     },
     "done": true
   },
@@ -1132,15 +1132,27 @@
     },
     "done": true
   },
+  "modern_industrialization:forge_hammer": {
+    "criteria": {
+      "checkInv": "2025-12-14 12:12:33 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-12-14 15:41:39 -0300"
+    },
+    "done": true
+  },
   "ars_nouveau:imbuement_chamber": {
     "criteria": {
       "has_imbuement_chamber": "2025-12-14 16:11:42 -0300"
     },
     "done": true
   },
-  "modern_industrialization:forge_hammer": {
+  "ars_nouveau:enchanting_apparatus": {
     "criteria": {
-      "checkInv": "2025-12-14 12:12:33 -0300"
+      "has_enchanting_apparatus": "2025-12-14 16:11:45 -0300"
     },
     "done": true
   },
@@ -1150,27 +1162,15 @@
     },
     "done": true
   },
-  "mekanismtools:better_than_netherite": {
-    "criteria": {
-      "armor": "2025-12-14 11:21:11 -0300"
-    },
-    "done": true
-  },
-  "ars_nouveau:archmage_spell_book": {
-    "criteria": {
-      "has_archmage_spell_book": "2025-12-14 16:22:29 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:novice_spell_book": {
     "criteria": {
       "has_novice_spell_book": "2025-12-14 16:22:14 -0300"
     },
     "done": true
   },
-  "ars_nouveau:magebloom_crop": {
+  "ars_nouveau:archmage_spell_book": {
     "criteria": {
-      "has_magebloom_crop": "2025-12-14 15:41:39 -0300"
+      "has_archmage_spell_book": "2025-12-14 16:22:29 -0300"
     },
     "done": true
   },
