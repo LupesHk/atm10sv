@@ -1180,6 +1180,18 @@
     },
     "done": true
   },
+  "occultism:occultism/craft_nature_paste": {
+    "criteria": {
+      "craft_nature_paste": "2025-12-27 00:07:07 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/green": {
+    "criteria": {
+      "chalk_green": "2025-12-27 00:08:10 -0300"
+    },
+    "done": true
+  },
   "occultism:occultism/summon_djinni_crusher": {
     "criteria": {
       "summon_djinni_crusher": "2025-12-27 00:27:13 -0300"
@@ -1198,15 +1210,45 @@
     },
     "done": true
   },
-  "occultism:chalks/green": {
+  "supplementaries:recipe/flags/flag_white": {
     "criteria": {
-      "chalk_green": "2025-12-27 00:08:10 -0300"
+      "has_item_minecraft_white_wool_1": "2025-12-27 13:16:44 -0300"
     },
     "done": true
   },
-  "occultism:occultism/craft_nature_paste": {
+  "supplementaries:recipe/stone_lamp": {
     "criteria": {
-      "craft_nature_paste": "2025-12-27 00:07:07 -0300"
+      "has_item_minecraft_stone_1": "2025-12-27 13:16:03 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bucket": {
+    "criteria": {
+      "has_item_minecraft_bucket_2": "2025-12-27 12:48:26 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_white_2": {
+    "criteria": {
+      "has_item_minecraft_white_wool_2": "2025-12-27 13:16:44 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/crank": {
+    "criteria": {
+      "has_item_minecraft_stone_2": "2025-12-27 13:16:03 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-12-27 13:57:52 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/feather_block": {
+    "criteria": {
+      "has_item_minecraft_feather_1": "2025-12-27 13:12:55 -0300"
     },
     "done": true
   },

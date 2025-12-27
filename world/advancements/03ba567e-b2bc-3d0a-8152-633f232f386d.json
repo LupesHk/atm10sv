@@ -807,5 +807,107 @@
     },
     "done": true
   },
+  "supplementaries:recipe/flags/flag_white": {
+    "criteria": {
+      "has_item_minecraft_white_wool_1": "2025-12-27 13:18:35 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flower_box": {
+    "criteria": {
+      "has_item_minecraft_dirt_2": "2025-12-27 12:57:39 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bellows": {
+    "criteria": {
+      "has_item_minecraft_leather_2": "2025-12-27 13:18:35 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/hourglass": {
+    "criteria": {
+      "has_item_minecraft_glass_1": "2025-12-27 13:22:12 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/soap": {
+    "criteria": {
+      "has_item_minecraft_water_bucket_1": "2025-12-27 13:06:14 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lumisene_bucket": {
+    "criteria": {
+      "has_item_minecraft_bucket_2": "2025-12-27 13:06:16 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_gray_2": {
+    "criteria": {
+      "has_item_minecraft_gray_wool_2": "2025-12-27 14:22:10 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_brown_2": {
+    "criteria": {
+      "has_item_minecraft_brown_wool_2": "2025-12-27 14:22:11 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/buntings/bunting_white_2": {
+    "criteria": {
+      "has_item_minecraft_white_wool_2": "2025-12-27 13:18:35 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-12-27 13:25:44 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/feather_block": {
+    "criteria": {
+      "has_item_minecraft_feather_1": "2025-12-27 13:16:49 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/speaker_block": {
+    "criteria": {
+      "has_item_minecraft_emerald_2": "2025-12-27 13:01:40 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_brown": {
+    "criteria": {
+      "has_item_minecraft_brown_wool_1": "2025-12-27 14:22:11 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/jar": {
+    "criteria": {
+      "has_item_minecraft_glass_2": "2025-12-27 13:22:12 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/daub": {
+    "criteria": {
+      "has_tag_supplementaries_straw_2": "2025-12-27 13:40:37 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2025-12-27 13:14:41 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_gray": {
+    "criteria": {
+      "has_item_minecraft_gray_wool_1": "2025-12-27 14:22:10 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
