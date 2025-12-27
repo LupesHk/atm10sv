@@ -1180,5 +1180,35 @@
     },
     "done": true
   },
+  "occultism:occultism/summon_djinni_crusher": {
+    "criteria": {
+      "summon_djinni_crusher": "2025-12-27 00:27:13 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/light_blue": {
+    "criteria": {
+      "chalk_light_blue": "2025-12-27 00:28:35 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/gray": {
+    "criteria": {
+      "chalk_gray": "2025-12-27 00:31:06 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/green": {
+    "criteria": {
+      "chalk_green": "2025-12-27 00:08:10 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_nature_paste": {
+    "criteria": {
+      "craft_nature_paste": "2025-12-27 00:07:07 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
