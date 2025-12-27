@@ -1,733 +1,733 @@
 {
 	quest.026C63594F813BCC.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Removes all negative debuffs from the player when actived, has a cooldown."
+		"Elimina todos los debuffs negativos del jugador cuando se activa, tiene un tiempo de espera."
 	]
 	quest.0272E58516A0C284.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Escáner de Minerales &4&lDESACTIVADO&r&f"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
 	]
-	quest.02B0CCD5607FF3B5.quest_desc: ["The player accessor acts as a chest that interfaces with the player's inventory. Using the GUI the player accessor can have it's sides configured to interface with the player's inventory, off-hand or armor slots."]
+	quest.02B0CCD5607FF3B5.quest_desc: ["El accesor de jugador actúa como un cofre que interactúa con el inventario del jugador. Usando la GUI el accesor de jugador puede tener sus lados configurados para interactuar con el inventario del jugador, mano secundaria o ranuras de armadura."]
 	quest.02B8F50721F12CFF.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:"
+		"&lFunción de Habilidad:"
 		""
-		"Prevents the player from taking fall damage."
+		"Previene que el jugador reciba daño por caída."
 	]
 	quest.03ED9B0DFE8B4574.quest_desc: [
-		"Valid Upgrades:"
-		"- Mind Fog"
-		"- Stupefy"
+		"Mejoras Válidas:"
+		"- Niebla Mental"
+		"- Estupefacción"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
 	]
 	quest.04A1D582003A0D9A.quest_desc: [
-		"Valid Upgrades:"
-		"- Run Speed"
-		"- Walk Speed"
+		"Mejoras Válidas:"
+		"- Velocidad de Carrera"
+		"- Velocidad de Caminata"
 	]
 	quest.05056CAA64E3971B.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Makes arrows fired by the Bow apply a potion effect based on your Potion Canister."
+		"Hace que las flechas disparadas por el Arco apliquen un efecto de poción basado en tu Bote de Poción."
 	]
 	quest.05D8C6EF8FCD6250.quest_desc: [
-		"Primogel Goo is the first tier of goo added by JDT and requires basic Overworld materials to craft."
+		"El Pringue Primogel es el primer nivel de pringue añadido por JDT y requiere materiales básicos del Overworld para craftearse."
 		""
-		"Crafts Unlocked:"
+		"Crafteos Desbloqueados:"
 		"- Ferricore"
-		"- Primal Coal"
+		"- Carbón Primigenio"
 		""
-		"Goo Spread Example:"
+		"Ejemplo de Propagación de Pringue:"
 		""
 		"{image:atm:textures/questpics/justdirethings/goo_spread_ferricore.png width:200 height:200 align:center}"
 	]
 	quest.07655CA904354E9E.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:"
+		"&lFunción de Habilidad:"
 		""
-		"Breaks nearby grass and flowers when activated."
+		"Rompe hierba y flores cercanas cuando se activa."
 	]
-	quest.079A415488A32076.quest_desc: ["Blaze Ember is a new material added by JDT. Blaze Ember is aquired by performing Goo Spread on Primal Coal Blocks using tier two goo or higher. Blaze Ember Ore is affected by fortune."]
+	quest.079A415488A32076.quest_desc: ["La Ascua de Blaze es un nuevo material añadido por JDT. La Ascua de Blaze se adquiere realizando Propagación de Pringue en Bloques de Carbón Primigenio usando pringue de nivel dos o superior. El Mineral de Ascua de Blaze es afectado por fortuna."]
 	quest.09485B63483B7A15.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:"
+		"&lFunción de Habilidad:"
 		""
-		"Temporarily makes nearby hostile mobs loose agro to the player, has a cooldown."
+		"Temporalmente hace que los mobs hostiles cercanos pierdan el agro hacia el jugador, tiene un tiempo de espera."
 	]
-	quest.09D2137B4F42006E.quest_desc: ["Eclipse Ember is a new material added by JDT. Eclipse Ember is aquired by performing Goo Spread on Voidflame Coal Blocks using tier four goo. Eclipse Ember Ore is affected by fortune."]
+	quest.09D2137B4F42006E.quest_desc: ["La Ascua de Eclipse es un nuevo material añadido por JDT. La Ascua de Eclipse se adquiere realizando Propagación de Pringue en Bloques de Carbón de Llama del Vacío usando pringue de nivel cuatro. El Mineral de Ascua de Eclipse es afectado por fortuna."]
 	quest.0A02DBE226C3F44E.quest_desc: [
-		"Valid Upgrades:"
-		"- Mind Fog"
-		"- Stupefy"
-		"- Night Vision"
-		"- Debuff Remover"
-		"- Mental Obliteration"
+		"Mejoras Válidas:"
+		"- Niebla Mental"
+		"- Estupefacción"
+		"- Visión Nocturna"
+		"- Removedor de Debuffs"
+		"- Obliteración Mental"
 	]
-	quest.0B485DB737A036E9.quest_desc: ["Machine Settings Copier allows players to copy settings between machines."]
-	quest.0B9BBE2A764631BF.quest_desc: ["The simple swapper can teleport items, blocks, mobs or players above it to another simple sawper it is linked to. To link swapers use the Ferricore wrench."]
+	quest.0B485DB737A036E9.quest_desc: ["El Copiador de Configuraciones de Máquina permite a los jugadores copiar configuraciones entre máquinas."]
+	quest.0B9BBE2A764631BF.quest_desc: ["El intercambiador simple puede teletransportar items, bloques, mobs o jugadores sobre él a otro intercambiador simple al que esté vinculado. Para vincular intercambiadores usa la Llave de Ferricore."]
 	quest.0C1D55AA9CC902BD.quest_desc: [
-		"Valid Upgrades:"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
+		"Mejoras Válidas:"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
 	]
 	quest.0C2EC56133D3CC6C.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Temporarily makes the player immune to damage when activated, has a cooldown."
+		"Temporalmente hace al jugador inmune al daño cuando se activa, tiene un tiempo de espera."
 	]
 	quest.0C9DD8E53A1B92C0.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
-		"- X-Ray"
-		"- Instant Break"
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+		"- Rayos X"
+		"- Romper Instantáneo"
 	]
 	quest.0CBFE2CE53DCACD5.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Increases the jump height of the player."
+		"Incrementa la altura de salto del jugador."
 	]
 	quest.0E3FDD8BB6D17A30.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Breaks nearby leaves when activated."
+		"Rompe hojas cercanas cuando se activa."
 	]
-	quest.0FAF274ADA65B26A.quest_desc: ["Portal Fluid is a mysterious green fluid vital in the opertaion of the Advanced Portal Gun.\\n\\nDropping Portal Fluid Catalyst into Polymorphic Fluid will create Unstable Portal Fluid BUT Unstable Portal Fluid can only exist in the End. Performing Goo Spread with Tier Three goo or higher will convert Unstable Portal Fluid into Portal Fluid."]
+	quest.0FAF274ADA65B26A.quest_desc: ["El Fluido de Portal es un fluido verde misterioso vital en la operación de la Pistola de Portales Avanzada.\\n\\nDejar caer Catalizador de Fluido de Portal en Fluido Polimórfico creará Fluido de Portal Inestable PERO el Fluido de Portal Inestable solo puede existir en el End. Realizar Propagación de Pringue con pringue de Nivel Tres o superior convertirá el Fluido de Portal Inestable en Fluido de Portal."]
 	quest.120DCA89A919C7AF.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Grants the player Night Vision."
+		"Otorga al jugador Visión Nocturna."
 	]
 	quest.1256F280F3669DDA.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Makes Arrows chain to nearby enemies."
+		"Hace que las Flechas se encadenen a enemigos cercanos."
 	]
 	quest.132F4671E121C7B8.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Increases walking speed."
+		"Incrementa la velocidad de caminata."
 	]
-	quest.16E02F671FBE9148.quest_desc: ["The Portal Gun is an item that uses power to create two portals to teleport between two points. Left Click shoots a blue portal, Right Click an orange portal and Shift Right Click removes both portals."]
-	quest.1705175C20CE91DD.quest_desc: ["Eclipse Alloy is a new material added by JDT. Eclipse Alloy is aquired by performing Goo Spread on Netherite Blocks using tier four goo. Eclipse Alloy Ore is affected by fortune."]
-	quest.1705175C20CE91DD.title: "Eclipse Alloy"
+	quest.16E02F671FBE9148.quest_desc: ["La Pistola de Portales es un item que usa energía para crear dos portales para teletransportarse entre dos puntos. Clic Izquierdo dispara un portal azul, Clic Derecho un portal naranja y Shift Clic Derecho elimina ambos portales."]
+	quest.1705175C20CE91DD.quest_desc: ["La Aleación de Eclipse es un nuevo material añadido por JDT. La Aleación de Eclipse se adquiere realizando Propagación de Pringue en Bloques de Netherite usando pringue de nivel cuatro. El Mineral de Aleación de Eclipse es afectado por fortuna."]
+	quest.1705175C20CE91DD.title: "Aleación de Eclipse"
 	quest.171DB70D0D19A942.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Automaticly smelts items dropped from mined blocks."
+		"Funde automáticamente los items soltados de bloques minados."
 	]
 	quest.176A1CC43467EF23.quest_desc: [
-		"Valid Upgrades:"
-		"- Step Assist"
-		"- Jump Boost"
-		"- Ground Stomp"
+		"Mejoras Válidas:"
+		"- Asistencia de Paso"
+		"- Impulso de Salto"
+		"- Pisotón Terrestre"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
 	]
 	quest.17A9D2CA160561D9.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Provides step assist to the player."
+		"Provee asistencia de paso al jugador."
 	]
 	quest.17C4F6EC1AFBC3AA.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
-		"Highlights nearby mobs with particals when activated."
+		"&lFunción de Habilidad:&r"
+		"Resalta mobs cercanos con partículas cuando se activa."
 	]
 	quest.18032636A60D0B2C.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"An upgraded version of Ore Scanner that renders nearby ores when activated."
+		"Una versión mejorada del Escáner de Minerales que renderiza minerales cercanos cuando se activa."
 	]
 	quest.199388A311FAC14C.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
-		"- Auto Smelter"
-		"- Hammer"
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Escáner de Minerales &4&lDESACTIVADO&r&f"
+		"- Autofundidor"
+		"- Martillo"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
 	]
 	quest.19E6757F04098A0C.quest_desc: [
-		"Valid Upgrades:"
-		"- Lawnmower"
-		"- Sky Sweeper"
+		"Mejoras Válidas:"
+		"- Cortacésped"
+		"- Barredor del Cielo"
 	]
-	quest.19E678E6EF9539DC.quest_desc: ["Just a simple sensor that outputs a restone signal and has one filter slot."]
-	quest.1B173E7533E1171F.quest_desc: ["Just a simple fluid collector."]
+	quest.19E678E6EF9539DC.quest_desc: ["Solo un sensor simple que emite una señal de redstone y tiene una ranura de filtro."]
+	quest.1B173E7533E1171F.quest_desc: ["Solo un colector de fluidos simple."]
 	quest.1CBA0D7DA0558EBC.quest_desc: [
-		"Valid Upgrades:"
-		"- Invulnerability"
-		"- Extinguish"
+		"Mejoras Válidas:"
+		"- Invulnerabilidad"
+		"- Extinguir"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
 	]
 	quest.1DAA5DD81EF96469.quest_desc: [
-		"Valid Upgrades:"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Auto Smelter"
-		"- Hammer"
+		"Mejoras Válidas:"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Autofundidor"
+		"- Martillo"
 		""
-		"Intrisic Ability:"
-		"- Lava Repair"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
 	]
 	quest.1E0C6409B2573CCA.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"An upgraded version of Ground Stomp that repells and slows nearby mobs, has a cooldown."
+		"Una versión mejorada de Pisotón Terrestre que repele y ralentiza mobs cercanos, tiene un tiempo de espera."
 	]
-	quest.1EA02BA24AF02256.quest_desc: ["Eclipse Alloy Templetes are used to upgrade Celestigem armor and tools to Eclipse Alloy while retaining enchantments and installed upgrades."]
-	quest.1ECFA72CF2BA4B45.quest_desc: ["A simple dropper and you can configure the amount dropped at once."]
+	quest.1EA02BA24AF02256.quest_desc: ["Las Plantillas de Aleación de Eclipse se usan para mejorar armadura y herramientas de Celestigem a Aleación de Eclipse mientras se retienen encantamientos y mejoras instaladas."]
+	quest.1ECFA72CF2BA4B45.quest_desc: ["Un soltador simple y puedes configurar la cantidad soltada a la vez."]
 	quest.1FE7C52491E7499B.quest_desc: [
-		"Valid Upgrades:"
-		"- Step Assist"
-		"- Jump Boost"
-		"- Ground Stomp"
-		"- Negate Fall Damage"
+		"Mejoras Válidas:"
+		"- Asistencia de Paso"
+		"- Impulso de Salto"
+		"- Pisotón Terrestre"
+		"- Negar Daño por Caída"
 	]
 	quest.1FFA1DA6A5EA4E70.quest_desc: [
-		"Valid Upgrades:"
-		"- Step Assist"
-		"- Jump Boost"
-		"- Ground Stomp"
-		"- Negate Fall Damage"
-		"- Earthquake"
+		"Mejoras Válidas:"
+		"- Asistencia de Paso"
+		"- Impulso de Salto"
+		"- Pisotón Terrestre"
+		"- Negar Daño por Caída"
+		"- Terremoto"
 	]
-	quest.200ECDC70E97D254.quest_desc: ["Fuel Canister is a tank that can fill containers with the fluid it contains.\\n\\nThe Fuel Canister has three fill modes:\\n\\n - None\\n - Any\\n - Just Dire Things"]
+	quest.200ECDC70E97D254.quest_desc: ["El Bote de Combustible es un tanque que puede llenar contenedores con el fluido que contiene.\\n\\nEl Bote de Combustible tiene tres modos de llenado:\\n\\n - Ninguno\\n - Cualquiera\\n - Just Dire Things"]
 	quest.21147C8CBF98AEB4.quest_desc: [
-		"Valid Upgrades:"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
+		"Mejoras Válidas:"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
 	]
 	quest.237D11FF5B09BA88.quest_desc: [
-		"Intrinsic Ability:"
-		"- No Trampling"
-		"- Auto Havesting"
-		"- Accelerated Crop Growth III"
+		"Habilidad Intrínseca:"
+		"- Sin Pisotear"
+		"- Cosecha Automática"
+		"- Crecimiento de Cultivos Acelerado III"
 		""
-		"Valid Upgrade:"
-		"- Drops Teleporter"
+		"Mejora Válida:"
+		"- Teletransportador de Drops"
 	]
-	quest.2409EAD96CE3BDF7.quest_desc: ["Blazegold Templetes are used to upgrade Ferricore armor and tools to Blazegold while retaining enchantments and installed upgrades."]
-	quest.242F74010488F261.quest_desc: ["The Fuel Canister is an item that allows for more efficent use of fuel. It can store 50,000 fuel, each burnable item has a different fuel value depending on the amount of items smelted. One fuel is enough to smelt one item."]
+	quest.2409EAD96CE3BDF7.quest_desc: ["Las Plantillas de Blazegold se usan para mejorar armadura y herramientas de Ferricore a Blazegold mientras se retienen encantamientos y mejoras instaladas."]
+	quest.242F74010488F261.quest_desc: ["El Bote de Combustible es un item que permite un uso más eficiente del combustible. Puede almacenar 50,000 de combustible, cada item quemable tiene un valor de combustible diferente dependiendo de la cantidad de items fundidos. Un combustible es suficiente para fundir un item."]
 	quest.24BA4B4EED0A9DBD.quest_desc: [
-		"Valid Upgrades:"
-		"- Mind Fog"
+		"Mejoras Válidas:"
+		"- Niebla Mental"
 	]
 	quest.25213DBA6E6CEDD2.quest_desc: [
-		"Shadowpulse Goo is the fourth and final tier of goo added by JDT and requires Ancient City and Warden materials to craft."
+		"El Pringue Shadowpulse es el cuarto y final nivel de pringue añadido por JDT y requiere materiales de la Ciudad Antigua y Warden para craftearse."
 		""
-		"Crafts Unlocked:"
-		"- Eclipse Alloy"
-		"- Eclipse Ember"
-		"- Time Crystal"
+		"Crafteos Desbloqueados:"
+		"- Aleación de Eclipse"
+		"- Ascua de Eclipse"
+		"- Cristal de Tiempo"
 	]
-	quest.25E915AE1FC53254.quest_desc: ["Celestigem Templetes are used to upgrade Blazegold armor and tools to Celestigem while retaining enchantments and installed upgrades."]
-	quest.27FD46A8C958D259.quest_desc: ["Totem of Death Recall is a one time use time that allows a player to teleport back to thier location of death."]
+	quest.25E915AE1FC53254.quest_desc: ["Las Plantillas de Celestigem se usan para mejorar armadura y herramientas de Blazegold a Celestigem mientras se retienen encantamientos y mejoras instaladas."]
+	quest.27FD46A8C958D259.quest_desc: ["El Tótem de Recuerdo de Muerte es un item de un solo uso que permite a un jugador teletransportarse de vuelta a su ubicación de muerte."]
 	quest.283D7E65F2AD45F2.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"An upgraded version of Mob Scanner that applied Glowing to nearby mobs when activated."
+		"Una versión mejorada del Escáner de Mobs que aplica Resplandor a mobs cercanos cuando se activa."
 	]
 	quest.2875FACD3BFB0A8E.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Provides minor healing when activated, but can only be actived if the player has recently taken damage or is taking damage."
+		"Provee curación menor cuando se activa, pero solo se puede activar si el jugador ha recibido daño recientemente o está recibiendo daño."
 	]
 	quest.2A01CE9206DD4F8A.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Mines adjacent ore blocks all at once, but takes slightly longer to mine."
+		"Mina bloques de mineral adyacentes todos a la vez, pero toma ligeramente más tiempo minar."
 	]
 	quest.2A919F73CB09CF8B.quest_desc: [
-		"Valid Upgrades:"
-		"- Run Speed"
-		"- Walk Speed"
-		"- Swim Speed"
-		"- Decoy"
-		"- Phase"
+		"Mejoras Válidas:"
+		"- Velocidad de Carrera"
+		"- Velocidad de Caminata"
+		"- Velocidad de Nado"
+		"- Señuelo"
+		"- Fase"
 	]
 	quest.2B1BAEC5DAAF9DAC.quest_desc: [
-		"Valid Upgrades:"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
-		"- Drops Teleporter"
+		"Mejoras Válidas:"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		"- Teletransportador de Drops"
 	]
 	quest.2D86D4403E0F4EB9.quest_desc: [
-		"Blazegold is a new material added by JDT. Blazegold is aquired by performing Goo Spread on Gold Blocks using tier two goo or higher. Blazegold Ore is affected by fortune."
+		"Blazegold es un nuevo material añadido por JDT. Blazegold se adquiere realizando Propagación de Pringue en Bloques de Oro usando pringue de nivel dos o superior. El Mineral de Blazegold es afectado por fortuna."
 		""
-		"Blazegold grants the intrinsic ability of Lava Repair to tools and Armor. Lava Repair, repairs the tool/armor when dropped into a lava source block, converting the source block into obsidian in exchange for repairing the tool/armor."
+		"Blazegold otorga la habilidad intrínseca de Reparación de Lava a herramientas y Armadura. Reparación de Lava, repara la herramienta/armadura cuando se deja caer en un bloque fuente de lava, convirtiendo el bloque fuente en obsidiana a cambio de reparar la herramienta/armadura."
 	]
 	quest.2D86D4403E0F4EB9.title: "Blazegold"
 	quest.2F86FB9E4D49E4B0.quest_desc: [
-		"Valid Upgrades:"
-		"- Mob Scanner"
+		"Mejoras Válidas:"
+		"- Escáner de Mobs"
 	]
 	quest.3138B83ABC2930F9.quest_desc: [
-		"Intrinsic Ability:"
-		"- No Trampling"
-		"- Auto Havesting"
-		"- Accelerated Crop Growth IV"
+		"Habilidad Intrínseca:"
+		"- Sin Pisotear"
+		"- Cosecha Automática"
+		"- Crecimiento de Cultivos Acelerado IV"
 		""
-		"Valid Upgrade:"
-		"- Drops Teleporter"
+		"Mejora Válida:"
+		"- Teletransportador de Drops"
 	]
 	quest.35A78E04092767AD.quest_desc: [
-		"Valid Upgrades:"
-		"- Potion Arrow"
-		"- Splash"
-		"- Lingering"
-		"- Homing Arrow"
+		"Mejoras Válidas:"
+		"- Flecha de Poción"
+		"- Salpicadura"
+		"- Persistente"
+		"- Flecha Teledirigida"
 	]
 	quest.37B903620493A354.quest_desc: [
-		"Valid Upgrades:"
-		"- Auto Smoker"
-		"- Cauterize Wounds"
-		"- Drops Teleporter"
-		"- Mob X-Ray"
+		"Mejoras Válidas:"
+		"- Ahumador Automático"
+		"- Cauterizar Heridas"
+		"- Teletransportador de Drops"
+		"- Rayos X de Mobs"
 	]
-	quest.3971FF7D044D1FE5.quest_desc: ["Armor abilities can be configured and toggled in the configuration menu. Use a JDT tool or wand to open the menu and click on your armor to configure the abilities of that armor piece."]
+	quest.3971FF7D044D1FE5.quest_desc: ["Las habilidades de armadura pueden ser configuradas y alternadas en el menú de configuración. Usa una herramienta o varita de JDT para abrir el menú y haz clic en tu pieza de armadura para configurar las habilidades de esa pieza de armadura."]
 	quest.3A471716A29F5172.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Provides the player with an Elytra, note the Elytra provided by this upgrade is affected by the Walk and Run Speed upgrades."
+		"Provee al jugador con Élitros, nota que los Élitros provistos por esta mejora son afectados por las mejoras de Velocidad de Caminata y Carrera."
 	]
 	quest.3AE1811C32B94A66.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Exingishes the player if they are on fire, has a cooldown."
+		"Extingue al jugador si está en fuego, tiene un tiempo de espera."
 	]
 	quest.3B3E3D81843BB358.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Increases running speed."
+		"Incrementa la velocidad de carrera."
 	]
 	quest.3BF32843DE3CF3C2.quest_desc: [
-		"Valid Upgrades:"
-		"- Run Speed"
-		"- Walk Speed"
-		"- Swim Speed"
-		"- Decoy"
+		"Mejoras Válidas:"
+		"- Velocidad de Carrera"
+		"- Velocidad de Caminata"
+		"- Velocidad de Nado"
+		"- Señuelo"
 	]
-	quest.3C8C80345D3F5FE8.quest_desc: ["The item collecter collects items and deposits them into the inventory below it."]
+	quest.3C8C80345D3F5FE8.quest_desc: ["El colector de items recoge items y los deposita en el inventario debajo de él."]
 	quest.3CBB78C9B8D3665E.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Reduces the dectection range of hostile mobs."
+		"Reduce el rango de detección de mobs hostiles."
 	]
 	quest.3CFD798362605880.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Makes Potion Arrows fired by the Bow have a Splash effect, hitting multiple targets in an area."
+		"Hace que las Flechas de Poción disparadas por el Arco tengan un efecto de Salpicadura, golpeando múltiples objetivos en un área."
 	]
-	quest.3D9964CB0440DD5A.quest_desc: ["Dropping Blaze Ember into Polymorphic Fluid will create Unrefined Blaze Ember Fuel. Perfoming Goo Spread with Tier Two goo or higher will convert Unrefined Blaze Ember Fuel into Blaze Ember Fuel."]
+	quest.3D9964CB0440DD5A.quest_desc: ["Dejar caer Ascua de Blaze en Fluido Polimórfico creará Combustible de Ascua de Blaze Sin Refinar. Realizar Propagación de Pringue con pringue de Nivel Dos o superior convertirá el Combustible de Ascua de Blaze Sin Refinar en Combustible de Ascua de Blaze."]
 	quest.3F3559EF5D08B706.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Makes Arrows actively seek their targets."
+		"Hace que las Flechas busquen activamente sus objetivos."
 	]
-	quest.40C5C355B6DA1893.quest_desc: ["The Pocket Generator is a handheld generator that uses burnable items to charge items and tools in the player's inventory, the Pocket Generator is compatable with the Fuel Canister."]
-	quest.41E8C93A44559E48.quest_desc: ["The &7Paradox Machine&r can, for a price of a lot of Power and &aTime Fluid&r, take a Snapshot of blocks and entities in the designated area; then it can duplicate it. \\n\\nLots of Blocks and Entities are blacklisted by configs so no duplicating Bees!"]
-	quest.433117EEA55B6A54.quest_desc: ["Just a simple fluid placer."]
-	quest.441F37A95AB66E6B.quest_desc: ["This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks. \\n\\nAs all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by &6AllTheMods Team&r without explicit permission. \\n\\nThis quest is intentionally hidden, if you're seeing this, you're in editing mode."]
-	quest.4458F8829800A950.quest_desc: ["Polymorphic Fluid is the base of all Fluids / Fuels in JDT. Polymorphic Fluid is crafted by dropping Polymorphic Catalyst into water."]
-	quest.446A37C7FCDACF84.quest_desc: ["Voidflame Coal is a new material added by JDT. Voidflame is aquired by performing Goo Spread on Blaze Ember Blocks using tier three goo or higher. Voidflame Coal Ore is affected by fortune."]
+	quest.40C5C355B6DA1893.quest_desc: ["El Generador de Bolsillo es un generador portátil que usa items quemables para cargar items y herramientas en el inventario del jugador, el Generador de Bolsillo es compatible con el Bote de Combustible."]
+	quest.41E8C93A44559E48.quest_desc: ["La &7Máquina Paradoja&r puede, por un precio de mucha Energía y &aFluido de Tiempo&r, tomar una Instantánea de bloques y entidades en el área designada; luego puede duplicarla. \\n\\nMuchos Bloques y Entidades están en lista negra por configuraciones así que ¡nada de duplicar Abejas!"]
+	quest.433117EEA55B6A54.quest_desc: ["Solo un colocador de fluidos simple."]
+	quest.441F37A95AB66E6B.quest_desc: ["Esta Quest ha sido escrita por &6Staff de AllTheMods&r, o un &2contribuidor de la Comunidad&r para uso en Modpacks de AllTheMods. \\n\\nComo todos los packs de &6AllTheMods&r están licenciados bajo &eTodos los Derechos Reservados&r, esta Quest no está permitida para ser usada en ningún pack público no lanzado por el &6Equipo de AllTheMods&r sin permiso explícito. \\n\\nEsta quest está intencionalmente oculta, si estás viendo esto, estás en modo de edición."]
+	quest.4458F8829800A950.quest_desc: ["El Fluido Polimórfico es la base de todos los Fluidos / Combustibles en JDT. El Fluido Polimórfico se craftea dejando caer Catalizador Polimórfico en agua."]
+	quest.446A37C7FCDACF84.quest_desc: ["El Carbón de Llama del Vacío es un nuevo material añadido por JDT. La Llama del Vacío se adquiere realizando Propagación de Pringue en Bloques de Ascua de Blaze usando pringue de nivel tres o superior. El Mineral de Carbón de Llama del Vacío es afectado por fortuna."]
 	quest.454662617304E299.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Allows the player to walk though blocks when applied to leggings. There is a block tag to blacklist blocks from being able to be phased through."
-		"When applied to a bow, allows arrows to phase through walls."
+		"Permite al jugador caminar a través de bloques cuando se aplica a pantalones. Hay una etiqueta de bloque para poner en lista negra bloques de ser capaces de ser traspasados."
+		"Cuando se aplica a un arco, permite que las flechas traspasen paredes."
 	]
 	quest.454CA1F8CC198D9D.quest_desc: [
-		"Valid Upgrades:"
-		"- Step Assist"
-		"- Jump Boost"
+		"Mejoras Válidas:"
+		"- Asistencia de Paso"
+		"- Impulso de Salto"
 	]
-	quest.45A25221F54A1DEC.quest_desc: ["The Ferricore Wrench allows the player to rotate machines, but it is also used to link swappers together."]
+	quest.45A25221F54A1DEC.quest_desc: ["La Llave de Ferricore permite al jugador rotar máquinas, pero también se usa para vincular intercambiadores juntos."]
 	quest.45D683D7F1A32B04.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Allows the tool to instantly mine blocks."
+		"Permite a la herramienta minar bloques instantáneamente."
 	]
 	quest.46E6B1600AA8A61E.quest_desc: [
-		"Valid Upgrades:"
-		"- Mob Scanner"
-		"- Auto Smoker"
-		"- Cauterize Wounds"
+		"Mejoras Válidas:"
+		"- Escáner de Mobs"
+		"- Ahumador Automático"
+		"- Cauterizar Heridas"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
 	]
 	quest.46EE2F9818F8D1D9.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Automaticly clears any blocks affected by gravity directly above the block mined."
+		"Limpia automáticamente cualquier bloque afectado por gravedad directamente encima del bloque minado."
 	]
 	quest.4773421DC70009AB.quest_desc: [
-		"Intrinsic Ability:"
-		"- No Trampling"
-		"- Accelerated Crop Growth I"
+		"Habilidad Intrínseca:"
+		"- Sin Pisotear"
+		"- Crecimiento de Cultivos Acelerado I"
 	]
-	quest.48E4D75FD3145AD6.quest_desc: ["Time Fluid is used by the Paradox Machine and Time Wand. It is obtained by dropping a Time Crystal into Polymorphic Fluid.\\n\\nFor a crystal so tough to get, I'm glad they gave us an easy fluid for once."]
-	quest.49636B3C6E6D0C2A.quest_desc: ["Has no uses, looks cool though."]
+	quest.48E4D75FD3145AD6.quest_desc: ["El Fluido de Tiempo es usado por la Máquina Paradoja y la Varita del Tiempo. Se obtiene dejando caer un Cristal de Tiempo en Fluido Polimórfico.\\n\\nPara un cristal tan difícil de conseguir, me alegra que nos hayan dado un fluido fácil por una vez."]
+	quest.49636B3C6E6D0C2A.quest_desc: ["No tiene usos, se ve genial sin embargo."]
 	quest.4987759CF379C1EB.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Prevents slowness and speed effects from being given while you have Time Crystals in your inventory."
+		"Previene efectos de lentitud y velocidad de ser dados mientras tienes Cristales de Tiempo en tu inventario."
 	]
-	quest.49EF8A4346AEF582.quest_desc: ["Dropping Eclipse Ember into Voidflame Fuel will create Unrefined Eclipse Ember Fuel. Perfoming Goo Spread with Tier Four goo will convert Unrefined Eclipse Ember Fuel into Eclipse Ember Fuel."]
-	quest.4A5937F6E5D06BE1.quest_desc: ["A simple liquid fuel generator that runs off the liquid fuels added by JDT."]
+	quest.49EF8A4346AEF582.quest_desc: ["Dejar caer Ascua de Eclipse en Combustible de Llama del Vacío creará Combustible de Ascua de Eclipse Sin Refinar. Realizar Propagación de Pringue con pringue de Nivel Cuatro convertirá el Combustible de Ascua de Eclipse Sin Refinar en Combustible de Ascua de Eclipse."]
+	quest.4A5937F6E5D06BE1.quest_desc: ["Un generador de combustible líquido simple que funciona con los combustibles líquidos añadidos por JDT."]
 	quest.4ACB72F3A23A5A19.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Increases swimming speed."
+		"Incrementa la velocidad de nado."
 	]
 	quest.4B1E4FC4599DB916.quest_desc: [
-		"Valid Upgrades:"
-		"- Invulnerability"
-		"- Extinguish"
-		"- Elytra"
+		"Mejoras Válidas:"
+		"- Invulnerabilidad"
+		"- Extinguir"
+		"- Élitros"
 	]
-	quest.4B3F20E5C7E3BCFB.quest_desc: ["Primal Coal is a new material added by JDT. Primal Coal is aquired by performing Goo Spread on Coal Blocks using tier one goo or higher. Primal Coal Ore is affected by fortune."]
+	quest.4B3F20E5C7E3BCFB.quest_desc: ["El Carbón Primigenio es un nuevo material añadido por JDT. El Carbón Primigenio se adquiere realizando Propagación de Pringue en Bloques de Carbón usando pringue de nivel uno o superior. El Mineral de Carbón Primigenio es afectado por fortuna."]
 	quest.4C54BD57CAB8A54B.quest_desc: [
-		"Blazebloom Goo is the second tier of goo added by JDT and requires Nether materials to craft."
+		"El Pringue Blazebloom es el segundo nivel de pringue añadido por JDT y requiere materiales del Nether para craftearse."
 		""
-		"Crafts Unlocked:"
+		"Crafteos Desbloqueados:"
 		"- Blazegold"
-		"- Blaze Ember"
+		"- Ascua de Blaze"
 	]
 	quest.4D98D2123BD5BFB3.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Mines adjacent logs all at once, note will increase time taken to break when mining multipul logs."
+		"Mina troncos adyacentes todos a la vez, nota que incrementará el tiempo tomado para romper cuando se minan múltiples troncos."
 	]
 	quest.4E03AE15BEF86178.quest_desc: [
-		"Valid Upgrades:"
-		"- Mob Scanner"
-		"- Auto Smoker"
-		"- Cauterize Wounds"
-		"- Drops Teleporter"
+		"Mejoras Válidas:"
+		"- Escáner de Mobs"
+		"- Ahumador Automático"
+		"- Cauterizar Heridas"
+		"- Teletransportador de Drops"
 	]
-	quest.4E9B35DCA018FD42.title: "Tool Upgrades"
-	quest.4F9932477EDDCB8E.quest_desc: ["The Advanced Portal Gun is the upgraded version of the Portal Gun that requres both power and portal fluid to operate. Unlike the Portal Gun the Adavanced Portal Gun allows the player to teleport between locations that have been encoded. Using \"V\" (default keybind) the menu used to encode and select desinations for teleportion."]
+	quest.4E9B35DCA018FD42.title: "Mejoras de Herramientas"
+	quest.4F9932477EDDCB8E.quest_desc: ["La Pistola de Portales Avanzada es la versión mejorada de la Pistola de Portales que requiere tanto energía como fluido de portal para operar. A diferencia de la Pistola de Portales, la Pistola de Portales Avanzada permite al jugador teletransportarse entre ubicaciones que han sido codificadas. Usando \"V\" (tecla por defecto) el menú usado para codificar y seleccionar destinos para teletransportación."]
 	quest.5054977BD5354561.quest_desc: [
-		"Valid Upgrades:"
-		"- Tree Feller"
-		"- Leaf Breaker"
+		"Mejoras Válidas:"
+		"- Talador de Árboles"
+		"- Rompehojas"
 	]
 	quest.515C0527226BA50C.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Grants the player creative flight."
+		"Otorga al jugador vuelo creativo."
 	]
-	quest.517F0135926B15EE.quest_desc: ["All simple machines come with redstone controll, and some come with filtering."]
+	quest.517F0135926B15EE.quest_desc: ["Todas las máquinas simples vienen con control de redstone, y algunas vienen con filtrado."]
 	quest.52EC86E03EB50525.quest_desc: [
-		"Intrinsic Ability:"
-		"- Lava Repair"
-		"- No Trampling"
-		"- Auto Harvesting"
-		"- Accelerated Crop Growth II"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
+		"- Sin Pisotear"
+		"- Cosecha Automática"
+		"- Crecimiento de Cultivos Acelerado II"
 	]
-	quest.53F9E5CE7EE6F852.quest_desc: ["The Creature Catcher allows for the transport of mobs. Mobs can be blacklisted via an entitiy tag."]
+	quest.53F9E5CE7EE6F852.quest_desc: ["El Atrapacriaturas permite el transporte de mobs. Los mobs pueden ser puestos en lista negra vía una etiqueta de entidad."]
 	quest.567005978482235F.quest_desc: [
-		"Valid Upgrades:"
-		"- Potion Arrow"
-		"- Splash"
+		"Mejoras Válidas:"
+		"- Flecha de Poción"
+		"- Salpicadura"
 		""
-		"Intrinsic Ability:"
-		"- Lava Repair"
+		"Habilidad Intrínseca:"
+		"- Reparación de Lava"
 	]
 	quest.5961C1ED32522BEF.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r "
+		"&lFunción de Habilidad:&r "
 		""
-		"Spwans a decoy of the player that pulls agro away from the player, has a cooldown."
+		"Genera un señuelo del jugador que atrae el agro lejos del jugador, tiene un tiempo de espera."
 	]
 	quest.5A1AB1AD7DEFDD9A.quest_desc: [
-		"Valid Upgrades:"
-		"- Invulnerability"
-		"- Extinguish"
-		"- Elytra"
-		"- Death Protection"
-		"- Flight"
-		"- Lava Immunity"
-		"- Time Protection"
+		"Mejoras Válidas:"
+		"- Invulnerabilidad"
+		"- Extinguir"
+		"- Élitros"
+		"- Protección de Muerte"
+		"- Vuelo"
+		"- Inmunidad a Lava"
+		"- Protección de Tiempo"
 	]
 	quest.5A38E9F68570F7F3.quest_desc: [
-		"Valid Upgrades:"
-		"- Run Speed"
-		"- Walk Speed"
-		"- Swim Speed"
+		"Mejoras Válidas:"
+		"- Velocidad de Carrera"
+		"- Velocidad de Caminata"
+		"- Velocidad de Nado"
 		""
-		"Intrinsic Ability:"
-		"- Lava Ability"
+		"Habilidad Intrínseca:"
+		"- Habilidad de Lava"
 	]
 	quest.5A9436B100FC1E67.quest_desc: [
-		"Valid Upgrades:"
-		"- Potion Arrow"
+		"Mejoras Válidas:"
+		"- Flecha de Poción"
 	]
 	quest.5B02719C13B1FFE2.quest_desc: [
-		"Abilities:"
-		"- Air Burst: Further improved launch distance."
-		"- Void Shift: Improved teleportation distance."
-		"- Eclipse Gate: Creates a portable hole in a 3x3 area, direction is dependant of the face of the block targeted. Distance of the hole created is configurable. Note Eclipse Gate doesn't work on tile entities."
+		"Habilidades:"
+		"- Ráfaga de Aire: Distancia de lanzamiento mejorada aún más."
+		"- Desplazamiento del Vacío: Distancia de teletransportación mejorada."
+		"- Puerta de Eclipse: Crea un agujero portátil en un área de 3x3, la dirección depende de la cara del bloque apuntado. La distancia del agujero creado es configurable. Nota que Puerta de Eclipse no funciona en entidades de bloque."
 	]
 	quest.5B910F1389C0B915.quest_desc: [
-		"Abilities:"
-		"- Air Burst: Improved launching distance and conusmes FE."
-		"- Void Shift: Teleports player in the direction they are looking consuming FE in the process."
+		"Habilidades:"
+		"- Ráfaga de Aire: Distancia de lanzamiento mejorada y consume FE."
+		"- Desplazamiento del Vacío: Teletransporta al jugador en la dirección que está mirando consumiendo FE en el proceso."
 	]
 	quest.5BBE8B30ED7518B8.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Escáner de Minerales &4&lDESACTIVADO&r&f"
 	]
-	quest.5BD5737703F3F077.quest_desc: ["Ferricore is a new material added by JDT. Ferricore is aquired by performing Goo Spread on Iron Blocks using tier one goo or higher. Ferricore Ore is affected by fortune."]
+	quest.5BD5737703F3F077.quest_desc: ["Ferricore es un nuevo material añadido por JDT. Ferricore se adquiere realizando Propagación de Pringue en Bloques de Hierro usando pringue de nivel uno o superior. El Mineral de Ferricore es afectado por fortuna."]
 	quest.5BD5737703F3F077.title: "Ferricore"
 	quest.5C6709350BEF4050.quest_desc: [
-		"Voidshimmer Goo is the third tier of goo added by JDT and requires End materials to craft."
+		"El Pringue Voidshimmer es el tercer nivel de pringue añadido por JDT y requiere materiales del End para craftearse."
 		""
-		"Crafts Unlocked:"
+		"Crafteos Desbloqueados:"
 		"- Celestigem"
-		"- Void Flame"
+		"- Llama del Vacío"
 	]
 	quest.5D4E51471F3939E0.quest_desc: [
-		"Abilites:"
-		"- Air Burst: Launches player in the direction they are facing consuming durability in the progress, higher tier wands launch the player a greater distance. Note the player won't take fall damage as long as they are holding the wand."
+		"Habilidades:"
+		"- Ráfaga de Aire: Lanza al jugador en la dirección que está mirando consumiendo durabilidad en el proceso, varitas de mayor nivel lanzan al jugador una mayor distancia. Nota que el jugador no recibirá daño por caída mientras esté sosteniendo la varita."
 	]
-	quest.5EE7D5DE07A83C7D.quest_desc: ["&lAbility Type:&r Active\\n\\n&lAbility Function:&r\\n\\nHighlights nearby ores with green particals when activated.\\n\\n&4&lNOTE THIS ABILITY HAS BEEN DISABLED.&r&f"]
-	quest.5F5120451BA5B2FE.quest_desc: ["Advanced machines have the same capabilities as their simple varients with the addition of configurable working area, more filter slots and requiring power."]
-	quest.60A4994078500F63.quest_desc: ["Celestigem is a new material added by JDT. Celestigem is aquired by performing Goo Spread on Diamond Blocks using tier three goo or higher. Celestigem Ore is affected by fortune."]
+	quest.5EE7D5DE07A83C7D.quest_desc: ["&lTipo de Habilidad:&r Activa\\n\\n&lFunción de Habilidad:&r\\n\\nResalta minerales cercanos con partículas verdes cuando se activa.\\n\\n&4&lNOTA ESTA HABILIDAD HA SIDO DESACTIVADA.&r&f"]
+	quest.5F5120451BA5B2FE.quest_desc: ["Las máquinas avanzadas tienen las mismas capacidades que sus variantes simples con la adición de área de trabajo configurable, más ranuras de filtro y requiriendo energía."]
+	quest.60A4994078500F63.quest_desc: ["Celestigem es un nuevo material añadido por JDT. Celestigem se adquiere realizando Propagación de Pringue en Bloques de Diamante usando pringue de nivel tres o superior. El Mineral de Celestigem es afectado por fortuna."]
 	quest.61213012615619C5.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Automaticly smokes items dropped by kills."
+		"Ahúma automáticamente items soltados por muertes."
 	]
 	quest.636854555AD75DC3.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Automaticly teleports item drops to the inventory bound to the tool. Shift Right Clicking the tool on an inventory binds it. Note when on a JDT hoe items dropped by the auto harvest ability of the voidshimmer / shadowpulse farmland are teleported to the bound inventory, also right clicking voidshimmer / shadowpulse farmland will re-bind them if the bound inventory of the tool has been changed."
+		"Teletransporta automáticamente los items soltados al inventario vinculado a la herramienta. Shift Clic Derecho con la herramienta en un inventario lo vincula. Nota que cuando está en una azada de JDT los items soltados por la habilidad de cosecha automática de la tierra de cultivo voidshimmer / shadowpulse son teletransportados al inventario vinculado, también hacer clic derecho en tierra de cultivo voidshimmer / shadowpulse las re-vinculará si el inventario vinculado de la herramienta ha sido cambiado."
 	]
 	quest.6690AEE064DC2A7C.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:"
+		"&lFunción de Habilidad:"
 		""
-		"Increases area mined at once. When installed on higher tier tools the maximum area mined is increase. Mined area can be configured in the menu."
+		"Incrementa el área minada a la vez. Cuando se instala en herramientas de mayor nivel el área máxima minada se incrementa. El área minada puede ser configurada en el menú."
 	]
 	quest.6720F863B907A5F1.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Makes Potion Arrows fired by the bow have a Lingering effect, applying effects to an area over time."
+		"Hace que las Flechas de Poción disparadas por el arco tengan un efecto Persistente, aplicando efectos a un área con el tiempo."
 	]
-	quest.6737CB17D562B134.quest_desc: ["Just a simple clicker that clicks with the item it is given."]
-	quest.67B87570C340C243.title: "Armor Upgrades"
+	quest.6737CB17D562B134.quest_desc: ["Solo un clickeador simple que hace clic con el item que se le da."]
+	quest.67B87570C340C243.title: "Mejoras de Armadura"
 	quest.6889EFC6CC291463.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Repells nearby mobs when activated, has a cooldown."
+		"Repele mobs cercanos cuando se activa, tiene un tiempo de espera."
 	]
 	quest.6A4D31194C4CE156.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
-		"- X-Ray"
-		"- Instant Break"
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+		"- Rayos X"
+		"- Romper Instantáneo"
 	]
 	quest.6ADE6F9E004055F7.quest_desc: [
-		"Time Crystals are a new material added by JDT. These grow on Budding Time Crystal Blocks, which are created by performing goo spread on Budding Amethyst or a Time Crystal Block.\\n\\nHOWEVER, the Budding Time Crystal Block must collect time from the Overworld, the Nether, and The End to be able to grow Time Crystal Clusters. You CANNOT break or use silk touch on the Budding Time Crystal Block. You must use a Swapper, Cardboard Box, or Cut Paste Gadget to move them.\\n\\nAfter a while, the Budding Time Crystal Block will run out of energy, and must go for another trip to the Overworld, Nether, and End."
+		"Los Cristales de Tiempo son un nuevo material añadido por JDT. Estos crecen en Bloques de Cristal de Tiempo en Ciernes, que son creados realizando propagación de pringue en Amatista en Ciernes o un Bloque de Cristal de Tiempo.\\n\\nSIN EMBARGO, el Bloque de Cristal de Tiempo en Ciernes debe recolectar tiempo del Overworld, el Nether, y el End para ser capaz de cultivar Cúmulos de Cristal de Tiempo. NO PUEDES romper o usar toque de seda en el Bloque de Cristal de Tiempo en Ciernes. Debes usar un Intercambiador, Caja de Cartón, o Gadget de Cortar y Pegar para moverlos.\\n\\nDespués de un tiempo, el Bloque de Cristal de Tiempo en Ciernes se quedará sin energía, y debe ir por otro viaje al Overworld, Nether, y End."
 		"{@pagebreak}"
-		"To automate this process, look at the video linked in the image above this quest."
+		"Para automatizar este proceso, mira el video enlazado en la imagen sobre esta quest."
 	]
 	quest.6ADE6F9E004055F7.quest_subtitle: "Timey Wimey"
 	quest.6D9CFCD81A23BB3B.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Makes the player immune to lava."
+		"Hace al jugador inmune a la lava."
 	]
-	quest.6F709652A2B88C78.quest_desc: ["The energy transmitter provides power to blocks within it's working range, it can only accept power from the bottom."]
+	quest.6F709652A2B88C78.quest_desc: ["El transmisor de energía provee energía a bloques dentro de su rango de trabajo, solo puede aceptar energía desde abajo."]
 	quest.6FD4C60B547F4131.quest_desc: [
-		"Valid Upgrades:"
-		"- Ore Miner"
-		"- Ore Scanner &4&lDISABLED&r&f"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
+		"Mejoras Válidas:"
+		"- Minero de Minerales"
+		"- Escáner de Minerales &4&lDESACTIVADO&r&f"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
 	]
 	quest.703BDCDC88DD813C.quest_desc: [
-		"Valid Upgrades:"
-		"- Lawnmower"
-		"- Sky Sweeper"
-		"- Auto Smelter"
-		"- Hammer"
-		"- Drops Teleporter"
-		"- Instant Break"
+		"Mejoras Válidas:"
+		"- Cortacésped"
+		"- Barredor del Cielo"
+		"- Autofundidor"
+		"- Martillo"
+		"- Teletransportador de Drops"
+		"- Romper Instantáneo"
 	]
-	quest.70AD088336748892.quest_desc: ["Just a simple coal generator."]
-	quest.70BF85E2D235BAD5.quest_desc: ["Dropping Voidflame Coal into Blaze Ember Fuel will create Unrefined Voidflame Fuel. Perfoming Goo Spread with Tier Three goo or higher will convert Unrefined Voidflame Fuel into Voidflame Fuel."]
-	quest.70C404E5685E4E91.quest_desc: ["Just a simple block placer."]
+	quest.70AD088336748892.quest_desc: ["Solo un generador de carbón simple."]
+	quest.70BF85E2D235BAD5.quest_desc: ["Dejar caer Carbón de Llama del Vacío en Combustible de Ascua de Blaze creará Combustible de Llama del Vacío Sin Refinar. Realizar Propagación de Pringue con pringue de Nivel Tres o superior convertirá el Combustible de Llama del Vacío Sin Refinar en Combustible de Llama del Vacío."]
+	quest.70C404E5685E4E91.quest_desc: ["Solo un colocador de bloques simple."]
 	quest.71128E508D810DDF.quest_desc: [
-		"Valid Upgrades:"
-		"- Potion Arrow"
-		"- Splash"
-		"- Lingering"
-		"- Homing Arrow"
-		"- Phase"
-		"- Yondu Arrow"
+		"Mejoras Válidas:"
+		"- Flecha de Poción"
+		"- Salpicadura"
+		"- Persistente"
+		"- Flecha Teledirigida"
+		"- Fase"
+		"- Flecha Yondu"
 	]
 	quest.71441DFA05FD73E5.quest_desc: [
-		"Valid Upgrades:"
-		"- Mind Fog"
-		"- Stupefy"
-		"- Night Vision"
+		"Mejoras Válidas:"
+		"- Niebla Mental"
+		"- Estupefacción"
+		"- Visión Nocturna"
 	]
-	quest.7305EE0F7D73C231.quest_desc: ["Blank Upgrades are the base of all abilities. Abilities are seperated into two types, passive and active.\\n\\nPassive abilities require no active input by the player to work, however Active abilities only work when triggered by a keybind players set in the configuration menu, also active abilities consume durability/power when used. When installed on higher tier armor Active abilities have reduced cooldowns and Passived abilities have greater effects.\\n\\nThe smithing table is used to apply upgrades to JDT tools and armor. Holding shift when hovering over JDT tools or armor shows what upgrades are valid."]
-	quest.73552A4BA0687962.quest_desc: ["These upgrades can go into either tools or armor."]
+	quest.7305EE0F7D73C231.quest_desc: ["Las Mejoras en Blanco son la base de todas las habilidades. Las habilidades están separadas en dos tipos, pasivas y activas.\\n\\nLas habilidades pasivas no requieren entrada activa por el jugador para funcionar, sin embargo las habilidades Activas solo funcionan cuando son activadas por una tecla que los jugadores configuran en el menú de configuración, también las habilidades activas consumen durabilidad/energía cuando se usan. Cuando se instalan en armadura de mayor nivel las habilidades Activas tienen tiempos de espera reducidos y las habilidades Pasivas tienen mayores efectos.\\n\\nLa mesa de herrería se usa para aplicar mejoras a herramientas y armadura de JDT. Mantener shift cuando se pasa el cursor sobre herramientas o armadura de JDT muestra qué mejoras son válidas."]
+	quest.73552A4BA0687962.quest_desc: ["Estas mejoras pueden ir tanto en herramientas como en armadura."]
 	quest.7464CA1290B3474B.quest_desc: [
-		"Valid Upgrades:"
-		"- Invulnerability"
+		"Mejoras Válidas:"
+		"- Invulnerabilidad"
 	]
-	quest.76B1C5AFC5D6B7CF.quest_desc: ["The Time Wand can be used to accelerate blocks, similarly to the Time in a Bottle, up to x256 speed. Unlike TIAB, it uses FE and Time Fluid rather than stored time as fuel, making it considerably easier to refill.\\n\\nIt is blacklisted for fake players, though. We don't want you automating THIS."]
-	quest.76B1C5AFC5D6B7CF.quest_subtitle: "Cousin of the Time in a Bottle"
+	quest.76B1C5AFC5D6B7CF.quest_desc: ["La Varita del Tiempo puede ser usada para acelerar bloques, similarmente al Time in a Bottle, hasta velocidad x256. A diferencia de TIAB, usa FE y Fluido de Tiempo en lugar de tiempo almacenado como combustible, haciéndolo considerablemente más fácil de rellenar.\\n\\nEstá en lista negra para jugadores falsos, sin embargo. ¡No queremos que automatices ESTO!"]
+	quest.76B1C5AFC5D6B7CF.quest_subtitle: "Primo del Time in a Bottle"
 	quest.78840993C7832E89.quest_desc: [
-		"Valid Upgrades:"
-		"- Tree Feller"
-		"- Leaf Breaker"
-		"- Auto Smelter"
-		"- Drops Teleporter"
-		"- Instant Break"
+		"Mejoras Válidas:"
+		"- Talador de Árboles"
+		"- Rompehojas"
+		"- Autofundidor"
+		"- Teletransportador de Drops"
+		"- Romper Instantáneo"
 	]
 	quest.79BBCC1BEE90DBBB.quest_desc: [
-		"&lAbility Type:&r Passive"
+		"&lTipo de Habilidad:&r Pasiva"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Allows the player to cheat death, has a very long cooldown. So otherwise a Totem of Undying with a cooldown that isn't consumed."
+		"Permite al jugador burlar a la muerte, tiene un tiempo de espera muy largo. Así que de otra manera un Tótem de Inmortalidad con un tiempo de espera que no se consume."
 	]
-	quest.7AEFF81E7C8CF300.quest_desc: ["Using Shift Right Click when holding a JDT tool or wand will open the configuration menu where the player can configure and toggle abilities."]
+	quest.7AEFF81E7C8CF300.quest_desc: ["Usar Shift Clic Derecho cuando se sostiene una herramienta o varita de JDT abrirá el menú de configuración donde el jugador puede configurar y alternar habilidades."]
 	quest.7B9486981786AC47.quest_desc: [
-		"&lAbility Type:&r Active"
+		"&lTipo de Habilidad:&r Activa"
 		""
-		"&lAbility Function:&r"
+		"&lFunción de Habilidad:&r"
 		""
-		"Permantly removes the ai of nearby mobs, due to the power cost it can only affect five mobs at max per activation, has a very long cooldown."
+		"Elimina permanentemente la ia de mobs cercanos, debido al costo de energía solo puede afectar cinco mobs como máximo por activación, tiene un tiempo de espera muy largo."
 	]
-	quest.7D1D2A4E07E98709.quest_desc: ["A simple block breaker that requires a tool to break blocks."]
-	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things is a jack of all trades mod. Just Dire Things adds a new crafting mechanic called Goo Spread, along with machines that assist in the automation of Goo Spread and other utilities."]
+	quest.7D1D2A4E07E98709.quest_desc: ["Un rompebloques simple que requiere una herramienta para romper bloques."]
+	quest.7F0B2D58361FB00E.quest_desc: ["Just Dire Things es un mod todoterreno. Just Dire Things añade una nueva mecánica de crafteo llamada Propagación de Pringue, junto con máquinas que asisten en la automatización de Propagación de Pringue y otras utilidades."]
 	quest.7F0B2D58361FB00E.title: "Just Dire Things"
-	task.00B0A3B14DEB34B9.title: "Hybrid Upgrades"
+	task.00B0A3B14DEB34B9.title: "Mejoras Híbridas"
 	task.03982D782B426ABB.title: "AllRightsReserved"
 	task.19931057AAC1A03A.title: "AllRightsReserved"
 	task.32309011F80C0A9E.title: "NOTE"
-	task.366CA7D53571A552.title: "Utilities"
+	task.366CA7D53571A552.title: "Utilidades"
 	task.3AC95E8DC4229D17.title: "Just Dire Things"
-	task.3CAD6AD06BE4C3D3.title: "Tools"
-	task.40B39896B6CD41C6.title: "Armor"
-	task.5AB4103FF540ABB4.title: "Fluids"
-	task.5DD919AF75C92C8A.title: "Tools"
-	task.665A5DFA6270ADA6.title: "Simple Machines"
-	task.67B21CF59C3D02E5.title: "Advanced Machines"
-	task.7197FBBA21C0F94A.title: "Armor"
+	task.3CAD6AD06BE4C3D3.title: "Herramientas"
+	task.40B39896B6CD41C6.title: "Armadura"
+	task.5AB4103FF540ABB4.title: "Fluidos"
+	task.5DD919AF75C92C8A.title: "Herramientas"
+	task.665A5DFA6270ADA6.title: "Máquinas Simples"
+	task.67B21CF59C3D02E5.title: "Máquinas Avanzadas"
+	task.7197FBBA21C0F94A.title: "Armadura"
 }

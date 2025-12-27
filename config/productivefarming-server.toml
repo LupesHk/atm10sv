@@ -1,4 +1,16 @@
 [General]
+	#Max internal volume of the farm multiblock
+	# Default: 200
+	# Range: > 1
+	foundryMaxVolume = 200
+	#Max circumference of the farm multiblock
+	# Default: 200
+	# Range: > 1
+	foundryMaxCircumference = 200
+	#Max height of the farm multiblock
+	# Default: 20
+	# Range: > 1
+	foundryMaxHeight = 20
 	#Tickrate for Feeding Troughs
 	# Default: 1200
 	# Range: > 1
@@ -35,15 +47,5 @@
 	traitsOnVanillaCrops = true
 	#Spawn productive farming flowers when using bonemeal on grass blocks
 	spawnFlowersWithBonemeal = true
-	#Max internal volume of the farm multiblock
-	# Default: 1024
-	# Range: > 1
-	farmMaxVolume = 1024
-	#Max circumference of the farm multiblock
-	# Default: 200
-	# Range: > 1
-	farmMaxCircumference = 200
-	#Max height of the farm multiblock
-	# Default: 20
-	# Range: > 1
-	farmMaxHeight = 20
+	#Seeds can be obtained from farmer villager trades
+	villagersTradeSeeds = true

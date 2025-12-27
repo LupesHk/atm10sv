@@ -9,8 +9,10 @@ const client = new Client({
     puppeteer: {
         headless: false, // deixe false na primeira vez
         args: [
-            '--no-sandbox',
-            '--disable-setuid-sandbox'
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--start-minimized',
+        '--window-position=-32000,-32000'
         ]
     }
 });
