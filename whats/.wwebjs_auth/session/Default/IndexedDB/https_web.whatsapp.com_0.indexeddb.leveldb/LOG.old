@@ -1,0 +1,30 @@
+2025/12/27-10:48:32.488 1864 Reusing MANIFEST C:\Users\lucas\OneDrive\Área de Trabalho\Servidores\SV ATM 2.0\whats\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/27-10:48:32.488 1864 Recovering log #234
+2025/12/27-10:48:32.523 1864 Reusing old log C:\Users\lucas\OneDrive\Área de Trabalho\Servidores\SV ATM 2.0\whats\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000234.log 
+2025/12/27-10:48:34.496 2eb4 Level-0 table #247: started
+2025/12/27-10:48:34.554 2eb4 Level-0 table #247: 181109 bytes OK
+2025/12/27-10:48:34.557 2eb4 Delete type=0 #234
+2025/12/27-10:48:34.557 2eb4 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/27-10:48:34.580 2eb4 Compacting 1@1 + 9@2 files
+2025/12/27-10:48:34.692 2eb4 Generated table #248@1: 47582 keys, 2208593 bytes
+2025/12/27-10:48:34.793 2eb4 Generated table #249@1: 14377 keys, 2171472 bytes
+2025/12/27-10:48:34.839 2eb4 Generated table #250@1: 2811 keys, 2158360 bytes
+2025/12/27-10:48:34.880 2eb4 Generated table #251@1: 2035 keys, 2141238 bytes
+2025/12/27-10:48:34.946 2eb4 Generated table #252@1: 3189 keys, 2157588 bytes
+2025/12/27-10:48:35.011 2eb4 Generated table #253@1: 6402 keys, 2157229 bytes
+2025/12/27-10:48:35.163 2eb4 Generated table #254@1: 32197 keys, 2247888 bytes
+2025/12/27-10:48:35.370 2eb4 Generated table #255@1: 49161 keys, 2259022 bytes
+2025/12/27-10:48:35.498 2eb4 Generated table #256@1: 73582 keys, 2219015 bytes
+2025/12/27-10:48:35.590 2eb4 Generated table #257@1: 873 keys, 19821 bytes
+2025/12/27-10:48:35.590 2eb4 Compacted 1@1 + 9@2 files => 19740226 bytes
+2025/12/27-10:48:35.595 2eb4 compacted to: files[ 0 0 10 0 0 0 0 ]
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #236
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #237
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #238
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #239
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #240
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #241
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #242
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #243
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #244
+2025/12/27-10:48:35.595 2eb4 Delete type=2 #247
