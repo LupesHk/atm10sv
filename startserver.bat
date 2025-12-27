@@ -188,11 +188,29 @@ if %errorlevel%==0 (
 echo.
 
 REM ===========================
+echo AVISANDO WHATSAPP: SERVER ON
+REM ===========================
+if exist "whats\bot.js" (
+    cd whats
+    node bot.js on
+    cd ..
+) else (
+    echo Bot WhatsApp nao encontrado.
+)
+
+REM ===========================
 echo INICIANDO SERVIDOR...
 REM ===========================
 %JAVA_CMD%
 
 echo SERVIDOR FOI FECHADO.
+echo Avisando WhatsApp: SERVER OFF
+
+if exist "whats\bot.js" (
+    cd whats
+    node bot.js off
+    cd ..
+)
 echo.
 
 :WAIT_JAVA
