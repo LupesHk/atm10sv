@@ -138,7 +138,7 @@ if %errorlevel% neq 0 (
     echo Fazendo primeiro pull do GitHub...
     "%GIT%" fetch origin
     "%GIT%" reset --hard origin/main
-    "%GIT%" clean -fd -e password.env
+    "%GIT%" clean -fd -e password.env -e whats/
 ) else (
     echo Repositorio Git encontrado.
     for /f "tokens=2" %%b in ('"%GIT%" branch --show-current 2^>nul') do set "CURRENT_BRANCH=%%b"
@@ -161,8 +161,7 @@ echo ================================
 REM Reset seguro mantendo arquivos importantes
 "%GIT%" fetch origin
 "%GIT%" reset --hard origin/main
-"%GIT%" clean -fd -e password.env
-
+"%GIT%" clean -fd -e password.env -e whats/
 if "%PULL_RECENTE%"=="S" (
     echo Fazendo pull da branch main...
     "%GIT%" pull origin %BRANCH% --rebase --autostash
