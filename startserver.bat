@@ -216,7 +216,7 @@ echo.
 :WAIT_JAVA
 tasklist | find /i "java.exe" >nul
 if %errorlevel%==0 (
-    timeout /t 1 >nul
+    timeout /t 10 >nul
     goto WAIT_JAVA
 )
 

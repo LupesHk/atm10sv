@@ -133,6 +133,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-11-28 15:19:43 -0300",
+      "minecraft:old_growth_pine_taiga": "2025-12-28 17:09:25 -0300",
       "minecraft:forest": "2025-11-21 23:42:27 -0300",
       "minecraft:river": "2025-11-28 15:19:38 -0300",
       "minecraft:dripstone_caves": "2025-11-22 00:00:34 -0300",
@@ -310,6 +311,7 @@
       "minecraft:shulker": "2025-12-10 21:16:33 -0300",
       "minecraft:piglin": "2025-11-29 00:52:44 -0300",
       "minecraft:vindicator": "2025-12-12 12:19:17 -0300",
+      "minecraft:breeze": "2025-12-28 17:49:37 -0300",
       "minecraft:enderman": "2025-11-22 01:12:39 -0300",
       "minecraft:spider": "2025-11-22 01:10:06 -0300",
       "minecraft:vex": "2025-12-12 12:21:56 -0300",
@@ -1270,9 +1272,15 @@
     },
     "done": true
   },
-  "ars_nouveau:ritual_brazier": {
+  "supplementaries:recipe/candy": {
     "criteria": {
-      "has_ritual_brazier": "2025-12-28 01:13:01 -0300"
+      "has_item_minecraft_honey_bottle_3": "2025-12-28 00:20:27 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/pancake_fd": {
+    "criteria": {
+      "has_tag_c_eggs_4": "2025-12-28 01:01:49 -0300"
     },
     "done": true
   },
@@ -1282,15 +1290,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/bellows": {
+  "ars_nouveau:ritual_brazier": {
     "criteria": {
-      "has_item_minecraft_leather_2": "2025-12-28 01:44:48 -0300"
-    },
-    "done": true
-  },
-  "supplementaries:recipe/soap": {
-    "criteria": {
-      "has_item_minecraft_water_bucket_1": "2025-12-28 01:15:46 -0300"
+      "has_ritual_brazier": "2025-12-28 01:13:01 -0300"
     },
     "done": true
   },
@@ -1300,9 +1302,9 @@
     },
     "done": true
   },
-  "supplementaries:recipe/candy": {
+  "supplementaries:recipe/soap": {
     "criteria": {
-      "has_item_minecraft_honey_bottle_3": "2025-12-28 00:20:27 -0300"
+      "has_item_minecraft_water_bucket_1": "2025-12-28 01:15:46 -0300"
     },
     "done": true
   },
@@ -1312,9 +1314,309 @@
     },
     "done": true
   },
-  "supplementaries:recipe/integration/pancake_fd": {
+  "supplementaries:recipe/bellows": {
     "criteria": {
-      "has_tag_c_eggs_4": "2025-12-28 01:01:49 -0300"
+      "has_item_minecraft_leather_2": "2025-12-28 01:44:48 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/hat_stand": {
+    "criteria": {
+      "has_item_minecraft_smooth_stone_slab_2": "2025-12-28 12:29:16 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/statue": {
+    "criteria": {
+      "has_item_minecraft_smooth_stone_slab_2": "2025-12-28 12:29:16 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/redstone_illuminator": {
+    "criteria": {
+      "has_item_minecraft_sea_lantern_2": "2025-12-28 13:59:06 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2025-12-28 14:01:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/turn_table": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2025-12-28 14:01:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bed_from_feather_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_2": "2025-12-28 14:01:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/notice_board": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2025-12-28 14:01:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lock_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_2": "2025-12-28 14:01:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon_2": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2025-12-28 14:01:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/clock_block": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2025-12-28 14:01:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/pulley": {
+    "criteria": {
+      "has_tag_minecraft_planks_1": "2025-12-28 14:01:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_door": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2025-12-28 14:13:21 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_trapdoor": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2025-12-28 14:13:21 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/hourglass": {
+    "criteria": {
+      "has_tag_c_ingots_gold_2": "2025-12-28 14:13:21 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_gate": {
+    "criteria": {
+      "has_tag_c_ingots_gold_2": "2025-12-28 14:13:21 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/key": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2025-12-28 14:13:21 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/gold_bars": {
+    "criteria": {
+      "has_tag_c_ingots_gold_1": "2025-12-28 14:13:21 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/faucet": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/iron_gate": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/goblet": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_yellow": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_brown": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bomb": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cage": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/wind_vane": {
+    "criteria": {
+      "has_tag_c_ingots_iron_1": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_blue": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_light_blue": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_purple": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_orange": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_red": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/relayer": {
+    "criteria": {
+      "has_tag_c_ingots_iron_3": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bubble_blower": {
+    "criteria": {
+      "has_tag_c_ingots_iron_1": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_magenta": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/spring_launcher": {
+    "criteria": {
+      "has_tag_c_ingots_iron_1": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-28 14:14:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/dragon_banner_pattern": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2025-12-28 14:18:39 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/present": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2025-12-28 14:18:39 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/confetti_popper": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2025-12-28 14:18:39 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/trapped_present_3": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2025-12-28 14:18:39 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/trapped_present_2": {
+    "criteria": {
+      "has_item_minecraft_paper_1": "2025-12-28 14:18:39 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sconce_lever": {
+    "criteria": {
+      "has_item_minecraft_redstone_2": "2025-12-28 14:44:47 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/altimeter": {
+    "criteria": {
+      "has_item_minecraft_redstone_2": "2025-12-28 14:44:47 -0300"
     },
     "done": true
   },
