@@ -8,7 +8,7 @@
 # [!] - MESSAGE_ATTACH_FILES
 # [!] - MESSAGE_MANAGE
 # [!] - MESSAGE_HISTORY
-discordBotToken = "MTM3MzcyMDQ0NjY5MTk3MTI3Mw.Gk88hE._9pktkh8l8my3c6D_akEZWkaRg1GeEUTGBOzEI"
+discordBotToken = "MTM3MzcyMDQ0NjY5MTk3MTI3Mw.GKkx5L.CAyT5sufYHKGDQ4_ZAdjsFUEmYtczpUrbrUz6g"
 # Discord channel ID for messaging with MineCraft
 # [!] Make sure the bot has access to the channel and all the permissions listed above.
 discordChannelId = "1373716543409492091"
