@@ -1,28 +1,33 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1766850417953L
+	last_login_time: 1766898447661L
 	chunks: {
 		"minecraft:the_nether": [
-			{ x: 32, z: 0, time: 1766812082764L, force_loaded: 1766812084012L }
+			{ x: 31, z: -1, time: 1766812082764L, force_loaded: 1766812084013L }
 			{ x: 32, z: -1, time: 1766812082765L, force_loaded: 1766812084014L }
 			{ x: 31, z: 0, time: 1766812082765L, force_loaded: 1766812084014L }
-			{ x: 31, z: -1, time: 1766812082764L, force_loaded: 1766812084013L }
+			{ x: 32, z: 0, time: 1766812082764L, force_loaded: 1766812084012L }
 		]
 		"minecraft:overworld": [
-			{ x: 246, z: -2, time: 1765551967427L }
 			{ x: 255, z: 1, time: 1765414842928L, force_loaded: 1765414844084L }
+			{ x: 245, z: -2, time: 1765551961882L }
+			{ x: 257, z: -3, time: 1765338861002L, force_loaded: 1765338861996L }
 			{ x: 256, z: -3, time: 1765338861002L, force_loaded: 1765338861996L }
 			{ x: 245, z: -1, time: 1765472204561L, force_loaded: 1765472206054L }
+			{ x: 246, z: -2, time: 1765551967427L }
 			{ x: 256, z: 1, time: 1765414842928L, force_loaded: 1765414844083L }
-			{ x: 257, z: -3, time: 1765338861002L, force_loaded: 1765338861996L }
+			{ x: 258, z: -4, time: 1766892320913L, force_loaded: 1766892321740L }
 			{ x: 257, z: -4, time: 1765338861001L, force_loaded: 1765338861994L }
-			{ x: 246, z: -1, time: 1765472204912L, force_loaded: 1765472206357L }
 			{ x: 256, z: -4, time: 1765338861002L, force_loaded: 1765338861996L }
-			{ x: 245, z: -2, time: 1765551961882L }
+			{ x: 246, z: -1, time: 1765472204912L, force_loaded: 1765472206357L }
+			{ x: 258, z: -3, time: 1766892320913L, force_loaded: 1766892321742L }
 		]
 		"minecraft:the_end": [{ x: 6, z: 0, time: 1766812774315L, force_loaded: 1766812774908L }]
-		"compactmachines:compact_world": [{ x: 0, z: -64, time: 1765414700395L, force_loaded: 1765414703527L }]
+		"compactmachines:compact_world": [
+			{ x: 0, z: -64, time: 1765414700395L, force_loaded: 1765414703527L }
+			{ x: 1, z: 65, time: 1766895714579L, force_loaded: 1766895715409L }
+		]
 	}
 	member_data: {
 		03ba567e-b2bc-3d0a-8152-633f232f386d: {
@@ -33,10 +38,10 @@
 		3496125e-b842-38d5-bc1a-8d2b346e739b: {
 			original_claims: {
 				"minecraft:overworld": [
+					{ x: 257, z: -3 }
 					{ x: 256, z: -3 }
 					{ x: 257, z: -4 }
 					{ x: 256, z: -4 }
-					{ x: 257, z: -3 }
 				]
 			}
 			max_claimed_chunks: 500

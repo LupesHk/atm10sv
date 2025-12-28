@@ -1210,9 +1210,15 @@
     },
     "done": true
   },
-  "supplementaries:recipe/flags/flag_white": {
+  "supplementaries:recipe/lumisene_bucket": {
     "criteria": {
-      "has_item_minecraft_white_wool_1": "2025-12-27 13:16:44 -0300"
+      "has_item_minecraft_bucket_2": "2025-12-27 12:48:26 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/feather_block": {
+    "criteria": {
+      "has_item_minecraft_feather_1": "2025-12-27 13:12:55 -0300"
     },
     "done": true
   },
@@ -1222,9 +1228,15 @@
     },
     "done": true
   },
-  "supplementaries:recipe/lumisene_bucket": {
+  "supplementaries:recipe/crank": {
     "criteria": {
-      "has_item_minecraft_bucket_2": "2025-12-27 12:48:26 -0300"
+      "has_item_minecraft_stone_2": "2025-12-27 13:16:03 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flags/flag_white": {
+    "criteria": {
+      "has_item_minecraft_white_wool_1": "2025-12-27 13:16:44 -0300"
     },
     "done": true
   },
@@ -1234,21 +1246,75 @@
     },
     "done": true
   },
-  "supplementaries:recipe/crank": {
-    "criteria": {
-      "has_item_minecraft_stone_2": "2025-12-27 13:16:03 -0300"
-    },
-    "done": true
-  },
   "ars_nouveau:mob_jar": {
     "criteria": {
       "has_mob_jar": "2025-12-27 13:57:52 -0300"
     },
     "done": true
   },
-  "supplementaries:recipe/feather_block": {
+  "supplementaries:recipe/lumisene_bottle": {
     "criteria": {
-      "has_item_minecraft_feather_1": "2025-12-27 13:12:55 -0300"
+      "has_item_minecraft_glass_bottle_2": "2025-12-28 00:10:24 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fine_wood": {
+    "criteria": {
+      "has_tag_minecraft_logs_1": "2025-12-28 00:11:06 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/speaker_block": {
+    "criteria": {
+      "has_item_minecraft_emerald_2": "2025-12-28 00:11:06 -0300"
+    },
+    "done": true
+  },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2025-12-28 01:13:01 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/flower_box": {
+    "criteria": {
+      "has_item_minecraft_dirt_2": "2025-12-28 01:12:33 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bellows": {
+    "criteria": {
+      "has_item_minecraft_leather_2": "2025-12-28 01:44:48 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/soap": {
+    "criteria": {
+      "has_item_minecraft_water_bucket_1": "2025-12-28 01:15:46 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cog_block": {
+    "criteria": {
+      "has_item_minecraft_redstone_block_2": "2025-12-28 01:13:23 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candy": {
+    "criteria": {
+      "has_item_minecraft_honey_bottle_3": "2025-12-28 00:20:27 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/planter_rich_fd": {
+    "criteria": {
+      "has_item_minecraft_brick_1": "2025-12-28 01:26:29 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/integration/pancake_fd": {
+    "criteria": {
+      "has_tag_c_eggs_4": "2025-12-28 01:01:49 -0300"
     },
     "done": true
   },
