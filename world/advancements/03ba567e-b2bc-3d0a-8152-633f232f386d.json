@@ -1168,5 +1168,251 @@
     },
     "done": true
   },
+  "supplementaries:recipe/candle_holders/candle_holder_green": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/mangrove": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_dissolution_chamber": "2025-12-30 02:16:06 -0300"
+    },
+    "done": false
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_black": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_cyan": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cannon": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/acacia": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/iron_gate": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/dark_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/goblet": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "mekanism:chemical_tank": {
+    "criteria": {
+      "basic_chemical_tank": "2025-12-30 01:30:44 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_yellow": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/crimson": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/birch": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-12-30 01:24:42 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_brown": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bomb": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_light_gray": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/spruce": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_white": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_lime": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/cage": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2025-12-30 01:18:12 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_blue": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_light_blue": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/warped": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_purple": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/pulley": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_orange": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_red": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/bubble_blower": {
+    "criteria": {
+      "has_tag_c_ingots_iron_1": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "mekanism:yellow_cake": {
+    "criteria": {
+      "yellow_cake_uranium": "2025-12-30 02:22:43 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_magenta": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/bamboo": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_gray": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/spring_launcher": {
+    "criteria": {
+      "has_tag_c_ingots_iron_1": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/jungle": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/cherry": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-30 02:31:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/candle_holders/candle_holder_pink": {
+    "criteria": {
+      "has_tag_c_ingots_iron_2": "2025-12-30 01:06:54 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

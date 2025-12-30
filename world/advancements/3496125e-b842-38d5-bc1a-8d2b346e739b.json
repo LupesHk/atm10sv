@@ -377,6 +377,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sugar_cane": "2025-11-26 00:15:49 -0300",
+      "sweet_berries": "2025-12-29 21:21:17 -0300",
       "pumpkin": "2025-11-22 01:28:45 -0300"
     },
     "done": false
@@ -1617,6 +1618,228 @@
   "supplementaries:recipe/altimeter": {
     "criteria": {
       "has_item_minecraft_redstone_2": "2025-12-28 14:44:47 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/crystal_display": {
+    "criteria": {
+      "has_item_minecraft_amethyst_shard_2": "2025-12-29 22:44:09 -0300"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_empowerer": {
+    "criteria": {
+      "empowerer": "2025-12-30 01:14:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:oritech/centrifuge": {
+    "criteria": {
+      "got_centrifuge": "2025-12-30 01:32:17 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/sconce": {
+    "criteria": {
+      "has_item_minecraft_torch_1": "2025-12-29 22:57:46 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/mangrove": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stonecutting/stone_tile": {
+    "criteria": {
+      "has_item_minecraft_stone_bricks_1": "2025-12-29 23:12:51 -0300"
+    },
+    "done": true
+  },
+  "actuallyadditions:craft_crusher": {
+    "criteria": {
+      "crystal": "2025-12-30 01:43:03 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/acacia": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/dark_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/crimson": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/birch": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "actuallyadditions:make_first_crystal": {
+    "criteria": {
+      "crystal": "2025-12-30 01:11:57 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/end_stone_lamp": {
+    "criteria": {
+      "has_item_minecraft_end_stone_1": "2025-12-29 22:35:15 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/wrench": {
+    "criteria": {
+      "has_tag_c_ingots_copper_1": "2025-12-29 23:42:11 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/pedestal": {
+    "criteria": {
+      "has_item_minecraft_stone_bricks_2": "2025-12-29 23:12:51 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/stone_tile": {
+    "criteria": {
+      "has_item_minecraft_stone_bricks_1": "2025-12-29 23:12:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-12-30 00:26:00 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/spruce": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-12-29 22:19:47 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-12-29 22:44:09 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/lapis_bricks": {
+    "criteria": {
+      "has_item_minecraft_lapis_lazuli_1": "2025-12-29 22:44:09 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blackboard": {
+    "criteria": {
+      "has_tag_supplementaries_blackboard_white_3": "2025-12-30 00:06:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:oritech/plastic": {
+    "criteria": {
+      "got_plastic": "2025-12-30 01:47:14 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/warped": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:oritech/assembler": {
+    "criteria": {
+      "got_assembler": "2025-12-30 01:27:06 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-12-29 21:43:21 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_item_minecraft_diamond_1": "2025-12-29 22:55:45 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_fragile_soul_gem": {
+    "criteria": {
+      "craft_fragile_soul_gem": "2025-12-29 23:40:40 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/fire_pit": {
+    "criteria": {
+      "has_tag_c_ingots_copper_2": "2025-12-29 23:42:11 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/jar": {
+    "criteria": {
+      "has_item_minecraft_glass_2": "2025-12-29 23:36:58 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/rope_arrow_create": {
+    "criteria": {
+      "has_item_minecraft_arrow_1": "2025-12-29 21:49:47 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/bamboo": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:oritech/laser": {
+    "criteria": {
+      "got_laser": "2025-12-30 01:52:26 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_soul_gem": {
+    "criteria": {
+      "craft_soul_gem": "2025-12-29 23:46:30 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/jungle": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/way_sign_oak/minecraft/cherry": {
+    "criteria": {
+      "has_item_minecraft_oak_sign_1": "2025-12-29 23:41:04 -0300"
     },
     "done": true
   },

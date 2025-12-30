@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 4115, y: 55, z: -14, time: 1766949064782L, xRot: 14.825609f, yRot: -64.24805f }
+	last_seen: { dim: "minecraft:overworld", x: 4111, y: 65, z: 5, time: 1767065381589L, xRot: 8.490479f, yRot: 94.06641f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 4098, y: 65, z: 0, time: 1765568988726L }
-		{ dim: "minecraft:overworld", x: 4110, y: 73, z: -38, time: 1765571404311L }
-		{ dim: "minecraft:overworld", x: 4093, y: 55, z: 8, time: 1766020910310L }
-		{ dim: "minecraft:overworld", x: 4093, y: 66, z: -36, time: 1766032309472L, xRot: -0.08335238f, yRot: 179.29932f }
-		{ dim: "minecraft:overworld", x: 4108, y: 65, z: -23, time: 1766033320910L }
-		{ dim: "minecraft:the_end", x: 10001, y: 98, z: 10003, time: 1766033417958L }
-		{ dim: "minecraft:overworld", x: 4106, y: 65, z: 2, time: 1766033444516L, xRot: 21.6959f, yRot: -56.37806f }
-		{ dim: "minecraft:the_end", x: 10050, y: 108, z: 10092, time: 1766033452558L }
-		{ dim: "minecraft:overworld", x: 4092, y: 55, z: -25, time: 1766895600444L, xRot: -0.67757535f, yRot: 129.1112f }
-		{ dim: "minecraft:overworld", x: 4094, y: 55, z: -29, time: 1766948217087L }
+		{ dim: "minecraft:overworld", x: 4115, y: 65, z: -9, time: 1767054336141L }
+		{ dim: "minecraft:overworld", x: 4088, y: 55, z: -6, time: 1767056418559L }
+		{ dim: "minecraft:overworld", x: 4102, y: 65, z: -18, time: 1767056948993L }
+		{ dim: "minecraft:overworld", x: 4105, y: 65, z: -30, time: 1767056986588L }
+		{ dim: "minecraft:overworld", x: 3937, y: 72, z: -19, time: 1767057861306L }
+		{ dim: "minecraft:overworld", x: 3934, y: 72, z: -17, time: 1767057878251L }
+		{ dim: "minecraft:overworld", x: 4105, y: 65, z: 2, time: 1767058211648L, xRot: 5.469244f, yRot: 149.34607f }
+		{ dim: "minecraft:the_end", x: 10041, y: 92, z: 9914, time: 1767058516513L }
+		{ dim: "minecraft:overworld", x: 4116, y: 71, z: -28, time: 1767058524947L, xRot: 8.76877f, yRot: 1.2514272f }
+		{ dim: "minecraft:overworld", x: 4146, y: 65, z: 1, time: 1767059133985L }
 	]
 	homes: { }
 	kit_use_times: { }
