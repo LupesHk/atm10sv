@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 4114, y: 67, z: -42, time: 1767071190031L, xRot: 19.069815f, yRot: -27.952698f }
+	last_seen: { dim: "minecraft:overworld", x: 4114, y: 67, z: -40, time: 1767153073062L, xRot: 7.500043f, yRot: 3.899322f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "compactmachines:compact_world", x: -1030, y: 1, z: -8, time: 1767069241099L, xRot: 18.750286f, yRot: -83.40933f }
-		{ dim: "minecraft:overworld", x: 4095, y: 64, z: -10, time: 1767069269648L }
-		{ dim: "compactmachines:compact_world", x: -1000, y: 2, z: -3, time: 1767069508043L, xRot: 42.984497f, yRot: -46.9913f }
-		{ dim: "minecraft:overworld", x: 4095, y: 65, z: 24, time: 1767069520393L }
-		{ dim: "compactmachines:compact_world", x: -1034, y: 149, z: -6, time: 1767069737197L }
-		{ dim: "compactmachines:compact_world", x: -1034, y: 1, z: -5, time: 1767069971405L, xRot: 26.300123f, yRot: -177.95813f }
-		{ dim: "compactmachines:compact_world", x: -1037, y: 1, z: -4, time: 1767070080896L }
 		{ dim: "compactmachines:compact_world", x: -1032, y: 1, z: -7, time: 1767070127110L }
 		{ dim: "compactmachines:compact_world", x: -1033, y: 1, z: -11, time: 1767070349455L, xRot: 14.936536f, yRot: 34.650116f }
 		{ dim: "minecraft:overworld", x: 4113, y: 56, z: -50, time: 1767071102959L }
+		{ dim: "compactmachines:compact_world", x: -1031, y: 1, z: -9, time: 1767146385667L, xRot: 24.899923f, yRot: 16.325989f }
+		{ dim: "compactmachines:compact_world", x: -1031, y: 1, z: 9, time: 1767148060681L, xRot: 27.300232f, yRot: -132.29916f }
+		{ dim: "compactmachines:compact_world", x: -1033, y: 1, z: 10, time: 1767148976037L, xRot: 29.850084f, yRot: 28.800201f }
+		{ dim: "compactmachines:compact_world", x: -1030, y: 1, z: 9, time: 1767149325039L, xRot: 10.7999935f, yRot: 146.25f }
+		{ dim: "minecraft:overworld", x: 3930, y: 75, z: -15, time: 1767149455032L, xRot: 46.650043f, yRot: -9.599915f }
+		{ dim: "compactmachines:compact_world", x: 1042, y: 1, z: 1051, time: 1767152217615L, xRot: 11.100048f, yRot: 163.1994f }
+		{ dim: "compactmachines:compact_world", x: -1033, y: 1, z: -5, time: 1767152503561L, xRot: 16.949995f, yRot: 131.24997f }
 	]
 	homes: {
 		home: { dim: "minecraft:overworld", x: 4113, y: 65, z: -11, time: 1766683460147L, xRot: 1.4999915f, yRot: 76.94971f }
