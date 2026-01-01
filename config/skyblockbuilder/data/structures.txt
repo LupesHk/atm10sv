@@ -51,7 +51,6 @@ minecraft:village_taiga
 nullscape:dragon_skeleton
 nullscape:rift
 railcraft:geode
-supplementaries:galleon
-supplementaries:road_sign
+supplementaries:way_sign
 xycraft_world:surface_geyser
 xycraft_world:underground_geyser
